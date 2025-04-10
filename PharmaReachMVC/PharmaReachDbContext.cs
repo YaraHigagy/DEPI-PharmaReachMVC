@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PharmaReachMVC
 {
-    internal class PharmaReachDbContext : DbContext
+    public class PharmaReachDbContext : DbContext
     {
         // Constructor
         public PharmaReachDbContext(DbContextOptions<PharmaReachDbContext> Options) : base(Options)
