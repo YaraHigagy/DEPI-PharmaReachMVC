@@ -1,30 +1,24 @@
 # PharmaReachDB
 
 ## Overview
-PharmaReachDB is a structured relational database designed to support the operations of the PharmaReach system. The database is tailored for managing healthcare-related entities, including customers, pharmacies, medicines, orders, and healthcare supplies. It provides robust support for tracking commercial, charitable, and prepaid transactions in a secure and scalable manner.
+PharmaReachMVC is a web-based application designed to manage healthcare-related operations within the PharmaReach system. It tracks entities such as customers, pharmacies, medicines, and orders, supporting commercial and prepaid transactions. Built on the MVC architecture, it integrates with a SQL Server database to ensure data integrity and scalability.
 
 ## Features
-- **Comprehensive Schema**: Organized entities for managing customers, orders, medicines, healthcare supplies, and more.
-- **Support for Charitable Operations**: Tracks charitable organizations, recipients, and donations.
-- **Order Management**: Handles commercial, prepaid, and charitable orders with detailed tracking of order details and statuses.
+- **MVC Architecture**: Separates concerns for better maintainability and scalability.
+- **Order Management**: Tracks commercial and prepaid orders with detailed status and information.
 - **Pharmacy Integration**: Links pharmacies with prescriptions and medicines.
-- **Audit and Tracking**: Supports tracking surplus medicines, rare medicines, and receiving tickets for customers and recipients.
+- **User Authentication**: Secure login and registration for customers and pharmacy staff.
 
 ## Database Structure
-The database is built using SQL Server and adheres to best practices in database normalization and entity relationships. Below is an outline of the key entities:
+The database, built with SQL Server, includes entities for customers, pharmacies, medicines, and orders. Entity Framework manages data interaction via a DbContext.
 
 ### Key Entities
-- **Customers**: Stores customer information, including personal details and login credentials.
-- **Pharmacies**: Manages pharmacy details, including contact information and licenses.
-- **Medicines**: Tracks commercial, charitable, prepaid, and rare medicines with their attributes.
-- **Orders**: Handles order lists and details for customers, prepaid transactions, and charitable distributions.
-- **Healthcare Supplies**: Manages both commercial and charitable healthcare supplies.
-- **Receiving Tickets**: Tracks the receiving of orders by customers and recipients.
-
-### Relationships
-The database schema leverages primary and foreign key relationships to maintain data integrity and enforce business rules. 
+- **Customers**: Stores customer information and login credentials.
+- **Pharmacies**: Manages pharmacy details and licenses.
+- **Medicines**: Tracks medicines and their attributes.
+- **Orders**: Manages customer orders and transaction details.
 
 ## ERD (Entity-Relationship Diagram)
-The Entity-Relationship Diagram (ERD) visually represents the database structure and relationships. Below is an overview of the ERD:
+The Entity-Relationship Diagram (ERD) represents the database structure and relationships:
 
 ![ERD Diagram](./db/PharmaReach-ERDdiagram.jpg)
