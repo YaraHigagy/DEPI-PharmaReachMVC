@@ -2873,6 +2873,4024 @@
       ]
     },
     {
+      "Route": "images/allopurinol.60kwuqfkkp.webp",
+      "AssetFile": "images/allopurinol.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ulx82blDkH7Pxdmpdw+eLEb3vaGuS9j4YEOooAo+nDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:52:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "60kwuqfkkp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ulx82blDkH7Pxdmpdw+eLEb3vaGuS9j4YEOooAo+nDw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/allopurinol.webp"
+        }
+      ]
+    },
+    {
+      "Route": "images/allopurinol.webp",
+      "AssetFile": "images/allopurinol.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ulx82blDkH7Pxdmpdw+eLEb3vaGuS9j4YEOooAo+nDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:52:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ulx82blDkH7Pxdmpdw+eLEb3vaGuS9j4YEOooAo+nDw="
+        }
+      ]
+    },
+    {
+      "Route": "images/amlodipine.bxl4rmtkau.png",
+      "AssetFile": "images/amlodipine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:52:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bxl4rmtkau"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/amlodipine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/amlodipine.png",
+      "AssetFile": "images/amlodipine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:52:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4="
+        }
+      ]
+    },
+    {
+      "Route": "images/amoxicillin.png",
+      "AssetFile": "images/amoxicillin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "548332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe+j29Rls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:24:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe+j29Rls="
+        }
+      ]
+    },
+    {
+      "Route": "images/amoxicillin.r244t1kbb7.png",
+      "AssetFile": "images/amoxicillin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "548332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe+j29Rls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:24:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r244t1kbb7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe+j29Rls="
+        },
+        {
+          "Name": "label",
+          "Value": "images/amoxicillin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/aspirin.hsyei0f1o1.png",
+      "AssetFile": "images/aspirin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4015517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:22:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hsyei0f1o1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/aspirin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/aspirin.png",
+      "AssetFile": "images/aspirin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4015517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:22:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo="
+        }
+      ]
+    },
+    {
+      "Route": "images/atorvastatin.png",
+      "AssetFile": "images/atorvastatin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:43:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/atorvastatin.t5b1z0yx2a.png",
+      "AssetFile": "images/atorvastatin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:43:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5b1z0yx2a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/atorvastatin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/azithromycin.0mmilkpu4s.png",
+      "AssetFile": "images/azithromycin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ff0R34ceiYOKNy6nBhApYT+rFvqw7IyobHePfN2DCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:07:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0mmilkpu4s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ff0R34ceiYOKNy6nBhApYT+rFvqw7IyobHePfN2DCk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/azithromycin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/azithromycin.png",
+      "AssetFile": "images/azithromycin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ff0R34ceiYOKNy6nBhApYT+rFvqw7IyobHePfN2DCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:07:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ff0R34ceiYOKNy6nBhApYT+rFvqw7IyobHePfN2DCk="
+        }
+      ]
+    },
+    {
+      "Route": "images/benadryl_diphenhydramine.png",
+      "AssetFile": "images/benadryl_diphenhydramine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4706540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:34:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/benadryl_diphenhydramine.wgipkd7b7k.png",
+      "AssetFile": "images/benadryl_diphenhydramine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4706540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:34:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wgipkd7b7k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/benadryl_diphenhydramine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/bupropion.4p97yx4l7j.png",
+      "AssetFile": "images/bupropion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3837275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:50:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4p97yx4l7j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/bupropion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/bupropion.png",
+      "AssetFile": "images/bupropion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3837275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:50:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM="
+        }
+      ]
+    },
+    {
+      "Route": "images/carvedilol.jpg",
+      "AssetFile": "images/carvedilol.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:14:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM="
+        }
+      ]
+    },
+    {
+      "Route": "images/carvedilol.wuuoxbdt4j.jpg",
+      "AssetFile": "images/carvedilol.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:14:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wuuoxbdt4j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/carvedilol.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/cetirizine.png",
+      "AssetFile": "images/cetirizine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:28:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc="
+        }
+      ]
+    },
+    {
+      "Route": "images/cetirizine.yqezq1xtky.png",
+      "AssetFile": "images/cetirizine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:28:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqezq1xtky"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/cetirizine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/chlorthalidone.7myljszyv4.jpg",
+      "AssetFile": "images/chlorthalidone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7myljszyv4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/chlorthalidone.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/chlorthalidone.jpg",
+      "AssetFile": "images/chlorthalidone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:15:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/ciprofloxacin.fvwjcxd5po.png",
+      "AssetFile": "images/ciprofloxacin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1RJbhmj7gvP7avWlGH+MC0DRWS2V1YYLAi5r8rhBZ0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvwjcxd5po"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1RJbhmj7gvP7avWlGH+MC0DRWS2V1YYLAi5r8rhBZ0k="
+        },
+        {
+          "Name": "label",
+          "Value": "images/ciprofloxacin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/ciprofloxacin.png",
+      "AssetFile": "images/ciprofloxacin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1RJbhmj7gvP7avWlGH+MC0DRWS2V1YYLAi5r8rhBZ0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1RJbhmj7gvP7avWlGH+MC0DRWS2V1YYLAi5r8rhBZ0k="
+        }
+      ]
+    },
+    {
+      "Route": "images/citalopram.efmxhw1bds.webp",
+      "AssetFile": "images/citalopram.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvCYEkAThSwqY0fHK1IrFZRHFOg+UvvYdlNAM+T+o98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:44:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efmxhw1bds"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvCYEkAThSwqY0fHK1IrFZRHFOg+UvvYdlNAM+T+o98="
+        },
+        {
+          "Name": "label",
+          "Value": "images/citalopram.webp"
+        }
+      ]
+    },
+    {
+      "Route": "images/citalopram.webp",
+      "AssetFile": "images/citalopram.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvCYEkAThSwqY0fHK1IrFZRHFOg+UvvYdlNAM+T+o98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:44:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvCYEkAThSwqY0fHK1IrFZRHFOg+UvvYdlNAM+T+o98="
+        }
+      ]
+    },
+    {
+      "Route": "images/clonazepam.png",
+      "AssetFile": "images/clonazepam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY="
+        }
+      ]
+    },
+    {
+      "Route": "images/clonazepam.yivxr75ty6.png",
+      "AssetFile": "images/clonazepam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yivxr75ty6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/clonazepam.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/diphenhydramine.gbba0eo8id.png",
+      "AssetFile": "images/diphenhydramine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1593818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:42:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gbba0eo8id"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/diphenhydramine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/diphenhydramine.png",
+      "AssetFile": "images/diphenhydramine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1593818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:42:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI="
+        }
+      ]
+    },
+    {
+      "Route": "images/doxycycline.m37t60jbke.png",
+      "AssetFile": "images/doxycycline.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mn+FDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:48:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m37t60jbke"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mn+FDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/doxycycline.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/doxycycline.png",
+      "AssetFile": "images/doxycycline.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mn+FDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:48:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mn+FDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo="
+        }
+      ]
+    },
+    {
+      "Route": "images/enalapril.jpg",
+      "AssetFile": "images/enalapril.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EfICk/MRl+z3rNr4VyfldeknzGuaZ+ahkWT0NIOZOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:11:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5EfICk/MRl+z3rNr4VyfldeknzGuaZ+ahkWT0NIOZOw="
+        }
+      ]
+    },
+    {
+      "Route": "images/enalapril.w7wwp1jbq8.jpg",
+      "AssetFile": "images/enalapril.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5EfICk/MRl+z3rNr4VyfldeknzGuaZ+ahkWT0NIOZOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:11:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7wwp1jbq8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5EfICk/MRl+z3rNr4VyfldeknzGuaZ+ahkWT0NIOZOw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/enalapril.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/epinephrine.9c0knseikr.jpg",
+      "AssetFile": "images/epinephrine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQVJfvn+MgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:38:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9c0knseikr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQVJfvn+MgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/epinephrine.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/epinephrine.jpg",
+      "AssetFile": "images/epinephrine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQVJfvn+MgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:38:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQVJfvn+MgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE="
+        }
+      ]
+    },
+    {
+      "Route": "images/fluconazole.8mn4p8zrce.png",
+      "AssetFile": "images/fluconazole.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:59:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8mn4p8zrce"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/fluconazole.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/fluconazole.png",
+      "AssetFile": "images/fluconazole.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:59:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw="
+        }
+      ]
+    },
+    {
+      "Route": "images/fluoxetine.png",
+      "AssetFile": "images/fluoxetine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIZHC+stGE5RLiuMRHNomaFNWmJx+81B3bzW6VD8GhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:38:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIZHC+stGE5RLiuMRHNomaFNWmJx+81B3bzW6VD8GhE="
+        }
+      ]
+    },
+    {
+      "Route": "images/fluoxetine.wd486me4yo.png",
+      "AssetFile": "images/fluoxetine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIZHC+stGE5RLiuMRHNomaFNWmJx+81B3bzW6VD8GhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:38:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wd486me4yo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIZHC+stGE5RLiuMRHNomaFNWmJx+81B3bzW6VD8GhE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/fluoxetine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/fluticasone.0c6hijg61r.png",
+      "AssetFile": "images/fluticasone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:53:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0c6hijg61r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho="
+        },
+        {
+          "Name": "label",
+          "Value": "images/fluticasone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/fluticasone.png",
+      "AssetFile": "images/fluticasone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:53:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho="
+        }
+      ]
+    },
+    {
+      "Route": "images/furosemide.n0qpsz0c6b.png",
+      "AssetFile": "images/furosemide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CaiuLBuwd3qcJcLAuag0vlI/5+VmMVCTfHan8WrRuq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:57:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0qpsz0c6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CaiuLBuwd3qcJcLAuag0vlI/5+VmMVCTfHan8WrRuq8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furosemide.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/furosemide.png",
+      "AssetFile": "images/furosemide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CaiuLBuwd3qcJcLAuag0vlI/5+VmMVCTfHan8WrRuq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:57:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CaiuLBuwd3qcJcLAuag0vlI/5+VmMVCTfHan8WrRuq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/gabapentin.klqil75qsn.png",
+      "AssetFile": "images/gabapentin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:47:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "klqil75qsn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/gabapentin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/gabapentin.png",
+      "AssetFile": "images/gabapentin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:47:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU="
+        }
+      ]
+    },
+    {
+      "Route": "images/hydrochlorothiazide.pfvclra4ti.png",
+      "AssetFile": "images/hydrochlorothiazide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:32:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pfvclra4ti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hydrochlorothiazide.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/hydrochlorothiazide.png",
+      "AssetFile": "images/hydrochlorothiazide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:32:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw="
+        }
+      ]
+    },
+    {
+      "Route": "images/hydrocodone.png",
+      "AssetFile": "images/hydrocodone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "339035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:39:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hydrocodone.zf3xko71oj.png",
+      "AssetFile": "images/hydrocodone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "339035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:39:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zf3xko71oj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hydrocodone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/ibuprofen.8et2facpk0.png",
+      "AssetFile": "images/ibuprofen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCcWmD+B/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:20:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8et2facpk0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCcWmD+B/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A="
+        },
+        {
+          "Name": "label",
+          "Value": "images/ibuprofen.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/ibuprofen.png",
+      "AssetFile": "images/ibuprofen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCcWmD+B/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:20:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCcWmD+B/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A="
+        }
+      ]
+    },
+    {
+      "Route": "images/levothyroxine.png",
+      "AssetFile": "images/levothyroxine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:46:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/levothyroxine.wc04lbrfai.png",
+      "AssetFile": "images/levothyroxine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:46:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wc04lbrfai"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/levothyroxine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/lisinopril.gbpu6djpjk.png",
+      "AssetFile": "images/lisinopril.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rGVPn+v0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:30:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gbpu6djpjk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rGVPn+v0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/lisinopril.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/lisinopril.png",
+      "AssetFile": "images/lisinopril.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rGVPn+v0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:30:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rGVPn+v0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI="
+        }
+      ]
+    },
+    {
+      "Route": "images/loratadine.jkyw5s17mj.png",
+      "AssetFile": "images/loratadine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:28:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jkyw5s17mj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/loratadine.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/loratadine.png",
+      "AssetFile": "images/loratadine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:28:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI="
+        }
+      ]
+    },
+    {
+      "Route": "images/lorazepam.0aihl35cge.jpg",
+      "AssetFile": "images/lorazepam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k+Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:55:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0aihl35cge"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k+Rg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/lorazepam.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/lorazepam.jpg",
+      "AssetFile": "images/lorazepam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k+Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:55:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k+Rg="
+        }
+      ]
+    },
+    {
+      "Route": "images/losartan_reva.png",
+      "AssetFile": "images/losartan_reva.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:56:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/losartan_reva.zsjb87take.png",
+      "AssetFile": "images/losartan_reva.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:56:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsjb87take"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k="
+        },
+        {
+          "Name": "label",
+          "Value": "images/losartan_reva.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/metformin.f5ko776rus.png",
+      "AssetFile": "images/metformin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A384CGwpBDF430MgcpxHTQgYr+h7FlBj53MmC2Sperg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:29:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5ko776rus"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A384CGwpBDF430MgcpxHTQgYr+h7FlBj53MmC2Sperg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/metformin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/metformin.png",
+      "AssetFile": "images/metformin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A384CGwpBDF430MgcpxHTQgYr+h7FlBj53MmC2Sperg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:29:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A384CGwpBDF430MgcpxHTQgYr+h7FlBj53MmC2Sperg="
+        }
+      ]
+    },
+    {
+      "Route": "images/methylprednisolone.png",
+      "AssetFile": "images/methylprednisolone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:51:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc="
+        }
+      ]
+    },
+    {
+      "Route": "images/methylprednisolone.up76unhja1.png",
+      "AssetFile": "images/methylprednisolone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:51:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "up76unhja1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/methylprednisolone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/metoprolol.a2b89acp9h.png",
+      "AssetFile": "images/metoprolol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/gST9gGefk+MfqCw50e8Wx5439mWnrTvD8inRgW0rkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:09:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a2b89acp9h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/gST9gGefk+MfqCw50e8Wx5439mWnrTvD8inRgW0rkE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/metoprolol.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/metoprolol.png",
+      "AssetFile": "images/metoprolol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/gST9gGefk+MfqCw50e8Wx5439mWnrTvD8inRgW0rkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:09:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/gST9gGefk+MfqCw50e8Wx5439mWnrTvD8inRgW0rkE="
+        }
+      ]
+    },
+    {
+      "Route": "images/milga.78ges2vjnh.jpg",
+      "AssetFile": "images/milga.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:04:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "78ges2vjnh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/milga.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/milga.jpg",
+      "AssetFile": "images/milga.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:04:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/naproxen.0lcc3n6gaf.png",
+      "AssetFile": "images/naproxen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:48:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0lcc3n6gaf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/naproxen.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/naproxen.png",
+      "AssetFile": "images/naproxen.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:48:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0="
+        }
+      ]
+    },
+    {
+      "Route": "images/omeprazole.png",
+      "AssetFile": "images/omeprazole.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:30:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="
+        }
+      ]
+    },
+    {
+      "Route": "images/omeprazole.qchf26jjz8.png",
+      "AssetFile": "images/omeprazole.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:30:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qchf26jjz8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/omeprazole.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/paracetamol.hvkohtg1te.png",
+      "AssetFile": "images/paracetamol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQQe1dQEm8YVS6FXD+hLabFUf6B3UugOeLV1g8doecE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:18:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hvkohtg1te"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQQe1dQEm8YVS6FXD+hLabFUf6B3UugOeLV1g8doecE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/paracetamol.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/paracetamol.png",
+      "AssetFile": "images/paracetamol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "403450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rQQe1dQEm8YVS6FXD+hLabFUf6B3UugOeLV1g8doecE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:18:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rQQe1dQEm8YVS6FXD+hLabFUf6B3UugOeLV1g8doecE="
+        }
+      ]
+    },
+    {
+      "Route": "images/pravastatin.jpg",
+      "AssetFile": "images/pravastatin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw="
+        }
+      ]
+    },
+    {
+      "Route": "images/pravastatin.znr5r17cdp.jpg",
+      "AssetFile": "images/pravastatin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:13:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "znr5r17cdp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/pravastatin.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/prednisone.n89qo4pjzu.png",
+      "AssetFile": "images/prednisone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:39:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n89qo4pjzu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/prednisone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/prednisone.png",
+      "AssetFile": "images/prednisone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:39:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ranitidine.e8y8rsrgo1.jpg",
+      "AssetFile": "images/ranitidine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TvoaYLab5lUNK+tgPuJeswwgmZDjA0J+X4IpCQ09g8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:50:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8y8rsrgo1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TvoaYLab5lUNK+tgPuJeswwgmZDjA0J+X4IpCQ09g8E="
+        },
+        {
+          "Name": "label",
+          "Value": "images/ranitidine.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/ranitidine.jpg",
+      "AssetFile": "images/ranitidine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TvoaYLab5lUNK+tgPuJeswwgmZDjA0J+X4IpCQ09g8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:50:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TvoaYLab5lUNK+tgPuJeswwgmZDjA0J+X4IpCQ09g8E="
+        }
+      ]
+    },
+    {
+      "Route": "images/risperidone.i2rh4jqy7k.jpg",
+      "AssetFile": "images/risperidone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:08:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2rh4jqy7k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U="
+        },
+        {
+          "Name": "label",
+          "Value": "images/risperidone.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/risperidone.jpg",
+      "AssetFile": "images/risperidone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:08:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U="
+        }
+      ]
+    },
+    {
+      "Route": "images/simvastatin.bue8qsyj15.png",
+      "AssetFile": "images/simvastatin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dihQfsTCiSOy+stjymRa9LvkEAA9lEGIdI/5l4U/Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:45:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bue8qsyj15"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dihQfsTCiSOy+stjymRa9LvkEAA9lEGIdI/5l4U/Yc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/simvastatin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/simvastatin.png",
+      "AssetFile": "images/simvastatin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dihQfsTCiSOy+stjymRa9LvkEAA9lEGIdI/5l4U/Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:45:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dihQfsTCiSOy+stjymRa9LvkEAA9lEGIdI/5l4U/Yc="
+        }
+      ]
+    },
+    {
+      "Route": "images/spironolactone.dcxw0f1svf.png",
+      "AssetFile": "images/spironolactone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zRxg4ESYF4JWPmkFfISVQJSgvvX+hC2eA/nkQoG/xD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:59:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcxw0f1svf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zRxg4ESYF4JWPmkFfISVQJSgvvX+hC2eA/nkQoG/xD8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/spironolactone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/spironolactone.png",
+      "AssetFile": "images/spironolactone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zRxg4ESYF4JWPmkFfISVQJSgvvX+hC2eA/nkQoG/xD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:59:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zRxg4ESYF4JWPmkFfISVQJSgvvX+hC2eA/nkQoG/xD8="
+        }
+      ]
+    },
+    {
+      "Route": "images/tamsulosin.i6exwe838o.png",
+      "AssetFile": "images/tamsulosin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:43:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6exwe838o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/tamsulosin.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/tamsulosin.png",
+      "AssetFile": "images/tamsulosin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:43:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo="
+        }
+      ]
+    },
+    {
+      "Route": "images/tramadol.mfpja1bc34.png",
+      "AssetFile": "images/tramadol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:53:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfpja1bc34"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/tramadol.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/tramadol.png",
+      "AssetFile": "images/tramadol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:53:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM="
+        }
+      ]
+    },
+    {
+      "Route": "images/trazodone.5m2i7ez4gr.png",
+      "AssetFile": "images/trazodone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vWwZN/XdudMFjnpzp07XUqU0NWXR6g4+VMOxPm473gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:16:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5m2i7ez4gr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vWwZN/XdudMFjnpzp07XUqU0NWXR6g4+VMOxPm473gQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/trazodone.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/trazodone.png",
+      "AssetFile": "images/trazodone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vWwZN/XdudMFjnpzp07XUqU0NWXR6g4+VMOxPm473gQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:16:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vWwZN/XdudMFjnpzp07XUqU0NWXR6g4+VMOxPm473gQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/zithromax.5xzklyu4bh.png",
+      "AssetFile": "images/zithromax.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:09:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xzklyu4bh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/zithromax.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/zithromax.png",
+      "AssetFile": "images/zithromax.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 10:09:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI="
+        }
+      ]
+    },
+    {
+      "Route": "images/zolpidem.2y4wee5un3.png",
+      "AssetFile": "images/zolpidem.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ogjnU7MgK/uaiAUX79LsJA6FlT+/2PBhQdkD/EXNdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2y4wee5un3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ogjnU7MgK/uaiAUX79LsJA6FlT+/2PBhQdkD/EXNdo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/zolpidem.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/zolpidem.png",
+      "AssetFile": "images/zolpidem.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ogjnU7MgK/uaiAUX79LsJA6FlT+/2PBhQdkD/EXNdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 09:33:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ogjnU7MgK/uaiAUX79LsJA6FlT+/2PBhQdkD/EXNdo="
+        }
+      ]
+    },
+    {
       "Route": "js/bootstrap.bundle.js",
       "AssetFile": "js/bootstrap.bundle.js",
       "Selectors": [],

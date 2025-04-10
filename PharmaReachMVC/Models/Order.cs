@@ -3,6 +3,20 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PharmaReachMVC.Models
 {
+    public enum OrderStatus
+    {
+        Pending,
+        Processing,
+        Shipped,
+        Delivered,
+        Cancelled,
+        Returned,
+        Refunded,
+        Completed,
+        Failed,
+        OnHold
+    }
+
     /// <summary>
     /// Represents an order placed by a customer at a pharmacy.
     /// </summary>
@@ -19,7 +33,7 @@ namespace PharmaReachMVC.Models
 
         [Required]
         [StringLength(50)]
-        public string Status { get; set; }
+        public OrderStatus Status { get; set; }
 
         [Required]
         public int CustomerId { get; set; }

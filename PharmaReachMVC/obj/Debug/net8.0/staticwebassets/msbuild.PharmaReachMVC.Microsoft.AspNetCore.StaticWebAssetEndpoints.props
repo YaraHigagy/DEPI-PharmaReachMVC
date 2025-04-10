@@ -408,6 +408,594 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tbrkzpj8qs"},{"Name":"integrity","Value":"sha256-Wf4DwCNK0L5nwLIos2Mki5I/KsU0FMDTcpByPxYwAW8="},{"Name":"label","Value":"_content/PharmaReachMVC/favicon.ico"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16958"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Wf4DwCNK0L5nwLIos2Mki5I/KsU0FMDTcpByPxYwAW8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:04:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/allopurinol.60kwuqfkkp.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\allopurinol.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"60kwuqfkkp"},{"Name":"integrity","Value":"sha256-ulx82blDkH7Pxdmpdw\u002BeLEb3vaGuS9j4YEOooAo\u002BnDw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/allopurinol.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28074"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022ulx82blDkH7Pxdmpdw\u002BeLEb3vaGuS9j4YEOooAo\u002BnDw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:52:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/allopurinol.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\allopurinol.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ulx82blDkH7Pxdmpdw\u002BeLEb3vaGuS9j4YEOooAo\u002BnDw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28074"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022ulx82blDkH7Pxdmpdw\u002BeLEb3vaGuS9j4YEOooAo\u002BnDw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:52:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/amlodipine.bxl4rmtkau.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\amlodipine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bxl4rmtkau"},{"Name":"integrity","Value":"sha256-AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4="},{"Name":"label","Value":"_content/PharmaReachMVC/images/amlodipine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2588048"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:52:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/amlodipine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\amlodipine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2588048"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AdVabukLWdydp52lgl2MH4M29ww4DlEmQiAq1xTjpY4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:52:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/amoxicillin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\amoxicillin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe\u002Bj29Rls="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"548332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe\u002Bj29Rls=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:24:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/amoxicillin.r244t1kbb7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\amoxicillin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r244t1kbb7"},{"Name":"integrity","Value":"sha256-o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe\u002Bj29Rls="},{"Name":"label","Value":"_content/PharmaReachMVC/images/amoxicillin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"548332"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022o841BwqM331ytLxEpzbQ7oItzYno0zYwxhPe\u002Bj29Rls=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:24:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/aspirin.hsyei0f1o1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\aspirin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hsyei0f1o1"},{"Name":"integrity","Value":"sha256-X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo="},{"Name":"label","Value":"_content/PharmaReachMVC/images/aspirin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4015517"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:22:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/aspirin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\aspirin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4015517"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X9ZLGY6wn3jW/NXxh9vN30bb0TlOVv29D3n5OmfZTJo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:22:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/atorvastatin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\atorvastatin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"132305"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:43:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/atorvastatin.t5b1z0yx2a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\atorvastatin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t5b1z0yx2a"},{"Name":"integrity","Value":"sha256-P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8="},{"Name":"label","Value":"_content/PharmaReachMVC/images/atorvastatin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132305"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022P659R17Mbiu6sbAKLiO4aRMfUNT0k5i2sVXSmp8rS/8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:43:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/azithromycin.0mmilkpu4s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\azithromycin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0mmilkpu4s"},{"Name":"integrity","Value":"sha256-\u002BFf0R34ceiYOKNy6nBhApYT\u002BrFvqw7IyobHePfN2DCk="},{"Name":"label","Value":"_content/PharmaReachMVC/images/azithromycin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"793104"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BFf0R34ceiYOKNy6nBhApYT\u002BrFvqw7IyobHePfN2DCk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:07:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/azithromycin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\azithromycin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BFf0R34ceiYOKNy6nBhApYT\u002BrFvqw7IyobHePfN2DCk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"793104"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BFf0R34ceiYOKNy6nBhApYT\u002BrFvqw7IyobHePfN2DCk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:07:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/benadryl_diphenhydramine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\benadryl_diphenhydramine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4706540"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:34:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/benadryl_diphenhydramine.wgipkd7b7k.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\benadryl_diphenhydramine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wgipkd7b7k"},{"Name":"integrity","Value":"sha256-wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE="},{"Name":"label","Value":"_content/PharmaReachMVC/images/benadryl_diphenhydramine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4706540"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wEEKNrY92O5GlR78sA8AMweG0ylOeokP5ZUENwvEPSE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:34:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/bupropion.4p97yx4l7j.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bupropion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4p97yx4l7j"},{"Name":"integrity","Value":"sha256-2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM="},{"Name":"label","Value":"_content/PharmaReachMVC/images/bupropion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3837275"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:50:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/bupropion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bupropion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3837275"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222DJGgU1/ncNddqvMO1fI0m041/MC9dZfjhH9RzurCUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:50:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/carvedilol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carvedilol.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"135427"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:14:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/carvedilol.wuuoxbdt4j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carvedilol.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wuuoxbdt4j"},{"Name":"integrity","Value":"sha256-yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM="},{"Name":"label","Value":"_content/PharmaReachMVC/images/carvedilol.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"135427"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yHBKUBJoaWC56DDVwREkPnVQhPKXQxltJ8qlosUhsaM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:14:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/cetirizine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cetirizine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"176457"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:28:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/cetirizine.yqezq1xtky.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cetirizine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqezq1xtky"},{"Name":"integrity","Value":"sha256-aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc="},{"Name":"label","Value":"_content/PharmaReachMVC/images/cetirizine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176457"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022aoOY2bJLtiQlSRqmoZBxibb0yFZmcAQKM5EPBMUgclc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:28:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/chlorthalidone.7myljszyv4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chlorthalidone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7myljszyv4"},{"Name":"integrity","Value":"sha256-fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ="},{"Name":"label","Value":"_content/PharmaReachMVC/images/chlorthalidone.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"180384"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:15:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/chlorthalidone.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chlorthalidone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"180384"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fzUzBysFLn4vgYUyPpSFi5hMVRarshkYY9iymuHuvmQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:15:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ciprofloxacin.fvwjcxd5po.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ciprofloxacin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fvwjcxd5po"},{"Name":"integrity","Value":"sha256-1RJbhmj7gvP7avWlGH\u002BMC0DRWS2V1YYLAi5r8rhBZ0k="},{"Name":"label","Value":"_content/PharmaReachMVC/images/ciprofloxacin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"453574"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221RJbhmj7gvP7avWlGH\u002BMC0DRWS2V1YYLAi5r8rhBZ0k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ciprofloxacin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ciprofloxacin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1RJbhmj7gvP7avWlGH\u002BMC0DRWS2V1YYLAi5r8rhBZ0k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"453574"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221RJbhmj7gvP7avWlGH\u002BMC0DRWS2V1YYLAi5r8rhBZ0k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/citalopram.efmxhw1bds.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\citalopram.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"efmxhw1bds"},{"Name":"integrity","Value":"sha256-yvCYEkAThSwqY0fHK1IrFZRHFOg\u002BUvvYdlNAM\u002BT\u002Bo98="},{"Name":"label","Value":"_content/PharmaReachMVC/images/citalopram.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"199520"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022yvCYEkAThSwqY0fHK1IrFZRHFOg\u002BUvvYdlNAM\u002BT\u002Bo98=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:44:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/citalopram.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\citalopram.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yvCYEkAThSwqY0fHK1IrFZRHFOg\u002BUvvYdlNAM\u002BT\u002Bo98="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"199520"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022yvCYEkAThSwqY0fHK1IrFZRHFOg\u002BUvvYdlNAM\u002BT\u002Bo98=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:44:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/clonazepam.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\clonazepam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1264372"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/clonazepam.yivxr75ty6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\clonazepam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yivxr75ty6"},{"Name":"integrity","Value":"sha256-Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY="},{"Name":"label","Value":"_content/PharmaReachMVC/images/clonazepam.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1264372"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jttmb0mULauSw78pJf3nfw1PIc7AZpH7fvwbw3eeQyY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/diphenhydramine.gbba0eo8id.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\diphenhydramine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gbba0eo8id"},{"Name":"integrity","Value":"sha256-NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI="},{"Name":"label","Value":"_content/PharmaReachMVC/images/diphenhydramine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1593818"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:42:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/diphenhydramine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\diphenhydramine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1593818"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NDAiZbpg6dj/CcbF6RhKLC8keThjDi6fowE0O/jHUQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:42:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/doxycycline.m37t60jbke.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\doxycycline.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m37t60jbke"},{"Name":"integrity","Value":"sha256-Mn\u002BFDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo="},{"Name":"label","Value":"_content/PharmaReachMVC/images/doxycycline.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"299026"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Mn\u002BFDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:48:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/doxycycline.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\doxycycline.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Mn\u002BFDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"299026"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Mn\u002BFDxmTPowBm2yYtiY01Ne1Rhznmx6ripJZBO8M0Yo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:48:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/enalapril.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\enalapril.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5EfICk/MRl\u002Bz3rNr4VyfldeknzGuaZ\u002BahkWT0NIOZOw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"146017"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225EfICk/MRl\u002Bz3rNr4VyfldeknzGuaZ\u002BahkWT0NIOZOw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:11:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/enalapril.w7wwp1jbq8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\enalapril.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w7wwp1jbq8"},{"Name":"integrity","Value":"sha256-5EfICk/MRl\u002Bz3rNr4VyfldeknzGuaZ\u002BahkWT0NIOZOw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/enalapril.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"146017"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225EfICk/MRl\u002Bz3rNr4VyfldeknzGuaZ\u002BahkWT0NIOZOw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:11:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/epinephrine.9c0knseikr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\epinephrine.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9c0knseikr"},{"Name":"integrity","Value":"sha256-uQVJfvn\u002BMgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE="},{"Name":"label","Value":"_content/PharmaReachMVC/images/epinephrine.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57455"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uQVJfvn\u002BMgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:38:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/epinephrine.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\epinephrine.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uQVJfvn\u002BMgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57455"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uQVJfvn\u002BMgRNh0zrc6jlDs0JIusX/zCvxPBbmHG3VVE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:38:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluconazole.8mn4p8zrce.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluconazole.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8mn4p8zrce"},{"Name":"integrity","Value":"sha256-kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/fluconazole.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"107449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:59:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluconazole.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluconazole.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"107449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022kBmdsIBqHOpgEjMNuv1cGA/VCKO8L7XvD20fV65l2Gw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:59:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluoxetine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluoxetine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NIZHC\u002BstGE5RLiuMRHNomaFNWmJx\u002B81B3bzW6VD8GhE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"150127"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NIZHC\u002BstGE5RLiuMRHNomaFNWmJx\u002B81B3bzW6VD8GhE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:38:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluoxetine.wd486me4yo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluoxetine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wd486me4yo"},{"Name":"integrity","Value":"sha256-NIZHC\u002BstGE5RLiuMRHNomaFNWmJx\u002B81B3bzW6VD8GhE="},{"Name":"label","Value":"_content/PharmaReachMVC/images/fluoxetine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"150127"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NIZHC\u002BstGE5RLiuMRHNomaFNWmJx\u002B81B3bzW6VD8GhE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:38:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluticasone.0c6hijg61r.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluticasone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0c6hijg61r"},{"Name":"integrity","Value":"sha256-UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho="},{"Name":"label","Value":"_content/PharmaReachMVC/images/fluticasone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"477454"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:53:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/fluticasone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fluticasone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"477454"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UDjXeL2IxypeXJGgHhrrufc3pWdr/TjW9QzPLr/2sho=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:53:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/furosemide.n0qpsz0c6b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\furosemide.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0qpsz0c6b"},{"Name":"integrity","Value":"sha256-CaiuLBuwd3qcJcLAuag0vlI/5\u002BVmMVCTfHan8WrRuq8="},{"Name":"label","Value":"_content/PharmaReachMVC/images/furosemide.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"341184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CaiuLBuwd3qcJcLAuag0vlI/5\u002BVmMVCTfHan8WrRuq8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:57:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/furosemide.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\furosemide.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CaiuLBuwd3qcJcLAuag0vlI/5\u002BVmMVCTfHan8WrRuq8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"341184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CaiuLBuwd3qcJcLAuag0vlI/5\u002BVmMVCTfHan8WrRuq8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:57:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/gabapentin.klqil75qsn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gabapentin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"klqil75qsn"},{"Name":"integrity","Value":"sha256-KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU="},{"Name":"label","Value":"_content/PharmaReachMVC/images/gabapentin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"210705"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:47:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/gabapentin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gabapentin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"210705"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KNhH9T74rZxU6Mxhy9hNnU7lcsRflz9tQ8a91y7BmrU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:47:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/hydrochlorothiazide.pfvclra4ti.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hydrochlorothiazide.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pfvclra4ti"},{"Name":"integrity","Value":"sha256-JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/hydrochlorothiazide.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77672"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:32:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/hydrochlorothiazide.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hydrochlorothiazide.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77672"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JUvXQ74BgphzmhpWTrs/ijNfSi6z92gNTPsXxb3keuw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:32:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/hydrocodone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hydrocodone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"339035"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:39:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/hydrocodone.zf3xko71oj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hydrocodone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zf3xko71oj"},{"Name":"integrity","Value":"sha256-UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8="},{"Name":"label","Value":"_content/PharmaReachMVC/images/hydrocodone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"339035"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UczMUqjYKGWR/35OcplQi6pOX4XX8FO/ZrJI/2pSdH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:39:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ibuprofen.8et2facpk0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ibuprofen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8et2facpk0"},{"Name":"integrity","Value":"sha256-sCcWmD\u002BB/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A="},{"Name":"label","Value":"_content/PharmaReachMVC/images/ibuprofen.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"221103"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sCcWmD\u002BB/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:20:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ibuprofen.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ibuprofen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sCcWmD\u002BB/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"221103"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022sCcWmD\u002BB/tf7rFwmNs2XzOR9hqWdejqc6CKz50qnB6A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:20:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/levothyroxine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\levothyroxine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"473023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:46:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/levothyroxine.wc04lbrfai.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\levothyroxine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wc04lbrfai"},{"Name":"integrity","Value":"sha256-0IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/levothyroxine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"473023"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220IsQQ4pI2bRdVVWkFbEK/Gm9IogOva4P1r6Kg43yhdw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:46:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/lisinopril.gbpu6djpjk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lisinopril.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gbpu6djpjk"},{"Name":"integrity","Value":"sha256-rGVPn\u002Bv0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI="},{"Name":"label","Value":"_content/PharmaReachMVC/images/lisinopril.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"104528"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rGVPn\u002Bv0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:30:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/lisinopril.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lisinopril.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rGVPn\u002Bv0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"104528"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rGVPn\u002Bv0YvdAEAf/FmKs4DJm32AaFSgZ8tTG6MebKoI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:30:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/loratadine.jkyw5s17mj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\loratadine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jkyw5s17mj"},{"Name":"integrity","Value":"sha256-/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI="},{"Name":"label","Value":"_content/PharmaReachMVC/images/loratadine.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"419923"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:28:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/loratadine.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\loratadine.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"419923"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/aNZKfLcirKb4bNfpFtMzvtnh212rG7UXLD6YKwU/GI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:28:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/lorazepam.0aihl35cge.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lorazepam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0aihl35cge"},{"Name":"integrity","Value":"sha256-OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k\u002BRg="},{"Name":"label","Value":"_content/PharmaReachMVC/images/lorazepam.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18946"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k\u002BRg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:55:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/lorazepam.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lorazepam.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k\u002BRg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18946"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OBhLtZHgJzasHXIJYxqNXnVPxqCHA5MwZ5RO978k\u002BRg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:55:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/losartan_reva.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\losartan_reva.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"370259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:56:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/losartan_reva.zsjb87take.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\losartan_reva.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zsjb87take"},{"Name":"integrity","Value":"sha256-/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k="},{"Name":"label","Value":"_content/PharmaReachMVC/images/losartan_reva.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"370259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/fKQv5z9DRGYgzNhGBwMuii1jHPlcV72HyoIr7ifu7k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:56:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/metformin.f5ko776rus.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\metformin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f5ko776rus"},{"Name":"integrity","Value":"sha256-A384CGwpBDF430MgcpxHTQgYr\u002Bh7FlBj53MmC2Sperg="},{"Name":"label","Value":"_content/PharmaReachMVC/images/metformin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"287688"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A384CGwpBDF430MgcpxHTQgYr\u002Bh7FlBj53MmC2Sperg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:29:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/metformin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\metformin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-A384CGwpBDF430MgcpxHTQgYr\u002Bh7FlBj53MmC2Sperg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"287688"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022A384CGwpBDF430MgcpxHTQgYr\u002Bh7FlBj53MmC2Sperg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:29:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/methylprednisolone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\methylprednisolone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"61040"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:51:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/methylprednisolone.up76unhja1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\methylprednisolone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"up76unhja1"},{"Name":"integrity","Value":"sha256-ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc="},{"Name":"label","Value":"_content/PharmaReachMVC/images/methylprednisolone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"61040"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ktZGm5S8DJEvUU2OmJd7Oruj/rUODdQ8CYRORdD97cc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:51:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/metoprolol.a2b89acp9h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\metoprolol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a2b89acp9h"},{"Name":"integrity","Value":"sha256-/gST9gGefk\u002BMfqCw50e8Wx5439mWnrTvD8inRgW0rkE="},{"Name":"label","Value":"_content/PharmaReachMVC/images/metoprolol.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2113850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/gST9gGefk\u002BMfqCw50e8Wx5439mWnrTvD8inRgW0rkE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:09:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/metoprolol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\metoprolol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/gST9gGefk\u002BMfqCw50e8Wx5439mWnrTvD8inRgW0rkE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2113850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/gST9gGefk\u002BMfqCw50e8Wx5439mWnrTvD8inRgW0rkE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:09:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/milga.78ges2vjnh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\milga.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"78ges2vjnh"},{"Name":"integrity","Value":"sha256-WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI="},{"Name":"label","Value":"_content/PharmaReachMVC/images/milga.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"198649"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:04:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/milga.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\milga.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"198649"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WSLm8DJ3jNW1K2xCTVKtn4wWucGBuj2rPUaNm7bpnTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:04:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/naproxen.0lcc3n6gaf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\naproxen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0lcc3n6gaf"},{"Name":"integrity","Value":"sha256-TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0="},{"Name":"label","Value":"_content/PharmaReachMVC/images/naproxen.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"177146"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:48:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/naproxen.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\naproxen.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"177146"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022TDZBC11sRsPuS9A7nQ2Ssers/lpLNeXHI32Bbqiboj0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:48:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/omeprazole.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\omeprazole.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"381643"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/omeprazole.qchf26jjz8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\omeprazole.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qchf26jjz8"},{"Name":"integrity","Value":"sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/omeprazole.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"381643"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/paracetamol.hvkohtg1te.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\paracetamol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hvkohtg1te"},{"Name":"integrity","Value":"sha256-rQQe1dQEm8YVS6FXD\u002BhLabFUf6B3UugOeLV1g8doecE="},{"Name":"label","Value":"_content/PharmaReachMVC/images/paracetamol.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"403450"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rQQe1dQEm8YVS6FXD\u002BhLabFUf6B3UugOeLV1g8doecE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:18:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/paracetamol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\paracetamol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rQQe1dQEm8YVS6FXD\u002BhLabFUf6B3UugOeLV1g8doecE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"403450"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rQQe1dQEm8YVS6FXD\u002BhLabFUf6B3UugOeLV1g8doecE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:18:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/pravastatin.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pravastatin.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25889"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:13:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/pravastatin.znr5r17cdp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pravastatin.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"znr5r17cdp"},{"Name":"integrity","Value":"sha256-sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/pravastatin.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25889"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sdX3qskrnpSaxBZu3qAe4UX79zCQcNwt3AIVPDtblgw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:13:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/prednisone.n89qo4pjzu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\prednisone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n89qo4pjzu"},{"Name":"integrity","Value":"sha256-uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY="},{"Name":"label","Value":"_content/PharmaReachMVC/images/prednisone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:39:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/prednisone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\prednisone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"280823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uVbJn0uSGsqPd6lx2CJiJSLJX1iT6JaGGNCrVN5lioY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:39:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ranitidine.e8y8rsrgo1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ranitidine.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e8y8rsrgo1"},{"Name":"integrity","Value":"sha256-TvoaYLab5lUNK\u002BtgPuJeswwgmZDjA0J\u002BX4IpCQ09g8E="},{"Name":"label","Value":"_content/PharmaReachMVC/images/ranitidine.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"56868"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TvoaYLab5lUNK\u002BtgPuJeswwgmZDjA0J\u002BX4IpCQ09g8E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:50:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/ranitidine.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ranitidine.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TvoaYLab5lUNK\u002BtgPuJeswwgmZDjA0J\u002BX4IpCQ09g8E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"56868"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TvoaYLab5lUNK\u002BtgPuJeswwgmZDjA0J\u002BX4IpCQ09g8E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:50:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/risperidone.i2rh4jqy7k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\risperidone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i2rh4jqy7k"},{"Name":"integrity","Value":"sha256-SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U="},{"Name":"label","Value":"_content/PharmaReachMVC/images/risperidone.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:08:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/risperidone.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\risperidone.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SnMgzxiJrdskZ0k7OqMHTcr5vW8AqvWwze1ly3Gbh6U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:08:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/simvastatin.bue8qsyj15.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\simvastatin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bue8qsyj15"},{"Name":"integrity","Value":"sha256-3dihQfsTCiSOy\u002BstjymRa9LvkEAA9lEGIdI/5l4U/Yc="},{"Name":"label","Value":"_content/PharmaReachMVC/images/simvastatin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"263661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223dihQfsTCiSOy\u002BstjymRa9LvkEAA9lEGIdI/5l4U/Yc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/simvastatin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\simvastatin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3dihQfsTCiSOy\u002BstjymRa9LvkEAA9lEGIdI/5l4U/Yc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"263661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223dihQfsTCiSOy\u002BstjymRa9LvkEAA9lEGIdI/5l4U/Yc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/spironolactone.dcxw0f1svf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\spironolactone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dcxw0f1svf"},{"Name":"integrity","Value":"sha256-zRxg4ESYF4JWPmkFfISVQJSgvvX\u002BhC2eA/nkQoG/xD8="},{"Name":"label","Value":"_content/PharmaReachMVC/images/spironolactone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"219396"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zRxg4ESYF4JWPmkFfISVQJSgvvX\u002BhC2eA/nkQoG/xD8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:59:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/spironolactone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\spironolactone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zRxg4ESYF4JWPmkFfISVQJSgvvX\u002BhC2eA/nkQoG/xD8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"219396"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zRxg4ESYF4JWPmkFfISVQJSgvvX\u002BhC2eA/nkQoG/xD8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:59:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/tamsulosin.i6exwe838o.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tamsulosin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i6exwe838o"},{"Name":"integrity","Value":"sha256-9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo="},{"Name":"label","Value":"_content/PharmaReachMVC/images/tamsulosin.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"212221"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:43:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/tamsulosin.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tamsulosin.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"212221"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229uGTLHAzaD2XgiaMZytrOae9DwJ2bz9PcSvYSVHNkeo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:43:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/tramadol.mfpja1bc34.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tramadol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mfpja1bc34"},{"Name":"integrity","Value":"sha256-gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM="},{"Name":"label","Value":"_content/PharmaReachMVC/images/tramadol.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"700141"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/tramadol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tramadol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"700141"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gqUsk6iBX3Z5sIYuuj8PST/6/Oiaiwg4eu3Zt5h/EOM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:53:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/trazodone.5m2i7ez4gr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\trazodone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5m2i7ez4gr"},{"Name":"integrity","Value":"sha256-vWwZN/XdudMFjnpzp07XUqU0NWXR6g4\u002BVMOxPm473gQ="},{"Name":"label","Value":"_content/PharmaReachMVC/images/trazodone.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"390050"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vWwZN/XdudMFjnpzp07XUqU0NWXR6g4\u002BVMOxPm473gQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:16:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/trazodone.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\trazodone.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vWwZN/XdudMFjnpzp07XUqU0NWXR6g4\u002BVMOxPm473gQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"390050"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vWwZN/XdudMFjnpzp07XUqU0NWXR6g4\u002BVMOxPm473gQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:16:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/zithromax.5xzklyu4bh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\zithromax.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5xzklyu4bh"},{"Name":"integrity","Value":"sha256-2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI="},{"Name":"label","Value":"_content/PharmaReachMVC/images/zithromax.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"178289"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:09:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/zithromax.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\zithromax.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"178289"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222c/eocLtV3xc5jYYu3pwbNXz52LZ8hfH2Mm82bjw6MI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 10:09:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/zolpidem.2y4wee5un3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\zolpidem.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2y4wee5un3"},{"Name":"integrity","Value":"sha256-9ogjnU7MgK/uaiAUX79LsJA6FlT\u002B/2PBhQdkD/EXNdo="},{"Name":"label","Value":"_content/PharmaReachMVC/images/zolpidem.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71891"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229ogjnU7MgK/uaiAUX79LsJA6FlT\u002B/2PBhQdkD/EXNdo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/zolpidem.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\zolpidem.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9ogjnU7MgK/uaiAUX79LsJA6FlT\u002B/2PBhQdkD/EXNdo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"71891"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229ogjnU7MgK/uaiAUX79LsJA6FlT\u002B/2PBhQdkD/EXNdo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:33:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/bootstrap.bundle.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
