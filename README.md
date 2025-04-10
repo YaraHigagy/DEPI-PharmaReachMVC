@@ -27,4 +27,4 @@ The database schema leverages primary and foreign key relationships to maintain 
 ## ERD (Entity-Relationship Diagram)
 The Entity-Relationship Diagram (ERD) visually represents the database structure and relationships. Below is an overview of the ERD:
 
-![ERD Diagram](./DB/Assets/imgs/PharmaReach-ERD.jpg)
+![ERD Diagram](./db/PharmaReach-ERDdiagram.jpg)
