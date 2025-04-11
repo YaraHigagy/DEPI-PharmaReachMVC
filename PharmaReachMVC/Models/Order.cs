@@ -5,16 +5,12 @@ namespace PharmaReachMVC.Models
 {
     public enum OrderStatus
     {
-        Pending,
-        Processing,
-        Shipped,
-        Delivered,
-        Cancelled,
-        Returned,
-        Refunded,
-        Completed,
-        Failed,
-        OnHold
+        Pending = 0,  // Order has been placed but not yet processed.
+        Processing = 1,  // Order is being prepared or packed for shipment.
+        Shipped = 2,  // Order has been shipped and is on its way to the customer.
+        Delivered = 3,  // Order has been delivered to the customer.
+        Cancelled = 4,  // Order has been cancelled by the customer or the store.
+        Returned = 5  // Order has been returned by the customer after delivery.
     }
 
     /// <summary>

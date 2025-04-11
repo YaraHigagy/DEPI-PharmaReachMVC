@@ -262,4 +262,3 @@ F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\Ph
 F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC\bin\Debug\net8.0\System.ClientModel.dll
 F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC\bin\Debug\net8.0\System.Formats.Asn1.dll
 F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC\obj\Debug\net8.0\PharmaReachMVC.sourcelink.json
-F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
