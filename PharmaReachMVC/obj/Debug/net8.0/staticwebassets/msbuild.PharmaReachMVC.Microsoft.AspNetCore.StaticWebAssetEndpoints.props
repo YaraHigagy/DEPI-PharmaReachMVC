@@ -384,53 +384,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zipk0q9xh7"},{"Name":"integrity","Value":"sha256-OzauJc/y1dBleHEvwrhbp6RLkNycpRtWxrFXVscimqI="},{"Name":"label","Value":"_content/PharmaReachMVC/css/bootstrap.rtl.min.css.map"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"588604"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022OzauJc/y1dBleHEvwrhbp6RLkNycpRtWxrFXVscimqI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 05:46:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.min.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.min.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ml/q6yXj\u002BT4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"380016"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Ml/q6yXj\u002BT4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.min.css.4fxo2084gh.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.min.css.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4fxo2084gh"},{"Name":"integrity","Value":"sha256-0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE="},{"Name":"label","Value":"_content/PharmaReachMVC/css/mdb.min.css.map"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"548830"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00220H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.min.css.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.min.css.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"548830"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00220H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.min.qav79rx33k.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.min.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qav79rx33k"},{"Name":"integrity","Value":"sha256-Ml/q6yXj\u002BT4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo="},{"Name":"label","Value":"_content/PharmaReachMVC/css/mdb.min.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"380016"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Ml/q6yXj\u002BT4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.rtl.min.89rvcevhd0.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.rtl.min.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"89rvcevhd0"},{"Name":"integrity","Value":"sha256-vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE="},{"Name":"label","Value":"_content/PharmaReachMVC/css/mdb.rtl.min.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"381657"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/mdb.rtl.min.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\mdb.rtl.min.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"381657"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.c2tiyv64ts.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/PharmaReachMVC/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 00:09:45 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 00:09:45 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/aI7fU\u002BAzRZkgdMmGtcY//T35\u002Bk9K/5nSZgZpTNrT4A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"666"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/aI7fU\u002BAzRZkgdMmGtcY//T35\u002Bk9K/5nSZgZpTNrT4A=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 03:30:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.hnn9fdg0ld.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hnn9fdg0ld"},{"Name":"integrity","Value":"sha256-/aI7fU\u002BAzRZkgdMmGtcY//T35\u002Bk9K/5nSZgZpTNrT4A="},{"Name":"label","Value":"_content/PharmaReachMVC/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"666"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/aI7fU\u002BAzRZkgdMmGtcY//T35\u002Bk9K/5nSZgZpTNrT4A=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 03:30:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/favicon.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -1175,54 +1139,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM\u002B8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"220732"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 05:46:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.es.min.j8hlkwu8k6.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.es.min.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j8hlkwu8k6"},{"Name":"integrity","Value":"sha256-fcHZytTFOTXrOeTphBnma\u002BaKFN1JN871fKlgJhEAE8U="},{"Name":"label","Value":"_content/PharmaReachMVC/js/mdb.es.min.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"258852"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fcHZytTFOTXrOeTphBnma\u002BaKFN1JN871fKlgJhEAE8U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.es.min.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.es.min.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fcHZytTFOTXrOeTphBnma\u002BaKFN1JN871fKlgJhEAE8U="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"258852"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fcHZytTFOTXrOeTphBnma\u002BaKFN1JN871fKlgJhEAE8U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.es.min.js.ijh74cks9c.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.es.min.js.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ijh74cks9c"},{"Name":"integrity","Value":"sha256-cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk="},{"Name":"label","Value":"_content/PharmaReachMVC/js/mdb.es.min.js.map"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"514770"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.es.min.js.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.es.min.js.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"514770"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.umd.min.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.umd.min.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NfT8bpHJAyGna7no5stY5LfG2wP9Ad\u002BeejdQ1FZMG2c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"125122"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NfT8bpHJAyGna7no5stY5LfG2wP9Ad\u002BeejdQ1FZMG2c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.umd.min.js.joivmsuy1r.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.umd.min.js.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"joivmsuy1r"},{"Name":"integrity","Value":"sha256-U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs="},{"Name":"label","Value":"_content/PharmaReachMVC/js/mdb.umd.min.js.map"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"505525"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.umd.min.js.map">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.umd.min.js.map'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"505525"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/mdb.umd.min.zmltdfnba0.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\mdb.umd.min.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zmltdfnba0"},{"Name":"integrity","Value":"sha256-NfT8bpHJAyGna7no5stY5LfG2wP9Ad\u002BeejdQ1FZMG2c="},{"Name":"label","Value":"_content/PharmaReachMVC/js/mdb.umd.min.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125122"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022NfT8bpHJAyGna7no5stY5LfG2wP9Ad\u002BeejdQ1FZMG2c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 22:58:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

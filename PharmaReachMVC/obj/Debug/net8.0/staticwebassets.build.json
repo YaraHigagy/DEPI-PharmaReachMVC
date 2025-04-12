@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wGXVsZfOTMQ/5FqZvBi0cGe/77Vx55I/vzg4N+0HhqM=",
+  "Hash": "T42OR46/hV65SaaDpxp6aPfzMOrpQvYVfFtQ/wGxa/Y=",
   "Source": "PharmaReachMVC",
   "BasePath": "_content/PharmaReachMVC",
   "Mode": "Default",
@@ -983,69 +983,6 @@
       "OriginalItemSpec": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PharmaReachMVC.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "css/mdb.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qav79rx33k",
-      "Integrity": "Ml/q6yXj+T4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\mdb.min.css"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css.map",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "css/mdb.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4fxo2084gh",
-      "Integrity": "0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\mdb.min.css.map"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.rtl.min.css",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "css/mdb.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "89rvcevhd0",
-      "Integrity": "vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\mdb.rtl.min.css"
-    },
-    {
       "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\site.css",
       "SourceId": "PharmaReachMVC",
       "SourceType": "Discovered",
@@ -1060,8 +997,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "hnn9fdg0ld",
+      "Integrity": "/aI7fU+AzRZkgdMmGtcY//T35+k9K/5nSZgZpTNrT4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2115,90 +2052,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\zolpidem.png"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "js/mdb.es.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "j8hlkwu8k6",
-      "Integrity": "fcHZytTFOTXrOeTphBnma+aKFN1JN871fKlgJhEAE8U=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\mdb.es.min.js"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js.map",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "js/mdb.es.min.js#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ijh74cks9c",
-      "Integrity": "cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\mdb.es.min.js.map"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "js/mdb.umd.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zmltdfnba0",
-      "Integrity": "NfT8bpHJAyGna7no5stY5LfG2wP9Ad+eejdQ1FZMG2c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\mdb.umd.min.js"
-    },
-    {
-      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js.map",
-      "SourceId": "PharmaReachMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
-      "BasePath": "_content/PharmaReachMVC",
-      "RelativePath": "js/mdb.umd.min.js#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "joivmsuy1r",
-      "Integrity": "U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\mdb.umd.min.js.map"
     },
     {
       "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\site.js",
@@ -14298,297 +14151,6 @@
       ]
     },
     {
-      "Route": "css/mdb.min.css",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "380016"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ml/q6yXj+T4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ml/q6yXj+T4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo="
-        }
-      ]
-    },
-    {
-      "Route": "css/mdb.min.css.4fxo2084gh.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "548830"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4fxo2084gh"
-        },
-        {
-          "Name": "label",
-          "Value": "css/mdb.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE="
-        }
-      ]
-    },
-    {
-      "Route": "css/mdb.min.css.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "548830"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0H5VbMllhnPRliYcGpb5Q9jS7RiR21Y98vx6H4L7yqE="
-        }
-      ]
-    },
-    {
-      "Route": "css/mdb.min.qav79rx33k.css",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "380016"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ml/q6yXj+T4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qav79rx33k"
-        },
-        {
-          "Name": "label",
-          "Value": "css/mdb.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ml/q6yXj+T4B5zTYrkhE1V/YydaOkPc1c1bYvo65vDo="
-        }
-      ]
-    },
-    {
-      "Route": "css/mdb.rtl.min.89rvcevhd0.css",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "381657"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "89rvcevhd0"
-        },
-        {
-          "Name": "label",
-          "Value": "css/mdb.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE="
-        }
-      ]
-    },
-    {
-      "Route": "css/mdb.rtl.min.css",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\mdb.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "381657"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vE9BnsTWaid5N5eEmUKPkrZ2YzqDQNM/Jsc1gjbGtVE="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 00:09:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -14599,7 +14161,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "666"
         },
         {
           "Name": "Content-Type",
@@ -14607,11 +14169,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"/aI7fU+AzRZkgdMmGtcY//T35+k9K/5nSZgZpTNrT4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 00:09:45 GMT"
+          "Value": "Sat, 12 Apr 2025 03:30:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14621,7 +14183,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-/aI7fU+AzRZkgdMmGtcY//T35+k9K/5nSZgZpTNrT4A="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.hnn9fdg0ld.css",
+      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/aI7fU+AzRZkgdMmGtcY//T35+k9K/5nSZgZpTNrT4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:30:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hnn9fdg0ld"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/aI7fU+AzRZkgdMmGtcY//T35+k9K/5nSZgZpTNrT4A="
         }
       ]
     },
@@ -19706,334 +19313,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM+8="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.es.min.j8hlkwu8k6.js",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "258852"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fcHZytTFOTXrOeTphBnma+aKFN1JN871fKlgJhEAE8U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j8hlkwu8k6"
-        },
-        {
-          "Name": "label",
-          "Value": "js/mdb.es.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fcHZytTFOTXrOeTphBnma+aKFN1JN871fKlgJhEAE8U="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.es.min.js",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "258852"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fcHZytTFOTXrOeTphBnma+aKFN1JN871fKlgJhEAE8U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fcHZytTFOTXrOeTphBnma+aKFN1JN871fKlgJhEAE8U="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.es.min.js.ijh74cks9c.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "514770"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ijh74cks9c"
-        },
-        {
-          "Name": "label",
-          "Value": "js/mdb.es.min.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.es.min.js.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.es.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "514770"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cjefkA3wZWalkjOMuRSPb1hHNDcjS0bDNFpWVba2hDk="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.umd.min.js",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "125122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NfT8bpHJAyGna7no5stY5LfG2wP9Ad+eejdQ1FZMG2c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NfT8bpHJAyGna7no5stY5LfG2wP9Ad+eejdQ1FZMG2c="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.umd.min.js.joivmsuy1r.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "505525"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "joivmsuy1r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/mdb.umd.min.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.umd.min.js.map",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "505525"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-U5Z5EA2ngY9JpgjuffWPzhM06X7UtjwLbNit/GawlAs="
-        }
-      ]
-    },
-    {
-      "Route": "js/mdb.umd.min.zmltdfnba0.js",
-      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\js\\mdb.umd.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "125122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NfT8bpHJAyGna7no5stY5LfG2wP9Ad+eejdQ1FZMG2c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 22:58:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zmltdfnba0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/mdb.umd.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NfT8bpHJAyGna7no5stY5LfG2wP9Ad+eejdQ1FZMG2c="
         }
       ]
     },

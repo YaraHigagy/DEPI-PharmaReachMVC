@@ -19,20 +19,74 @@ namespace PharmaReachMVC.Controllers
             _context = context;
         }
 
+        //// GET: Medicines
+        //public async Task<IActionResult> Index()
+        //{
+        //    return View(await _context.Medicines.ToListAsync());
+        //}
+
         // GET: Medicines
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchQuery, int page = 1, int? medicineId = null)
         {
-            return View(await _context.Medicines.ToListAsync());
+            int pageSize = 8; // Items per page
+            var query = _context.Medicines.AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(searchQuery))
+            {
+                query = query.Where(m => m.Name.Contains(searchQuery) || m.Description.Contains(searchQuery));
+            }
+
+            var totalItems = await query.CountAsync();
+            var totalPages = (int)Math.Ceiling(totalItems / (double)pageSize);
+
+            var medicines = await query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            // If a medicine ID is provided, fetch the medicine details for modal
+            if (medicineId.HasValue)
+            {
+                var medicine = await _context.Medicines
+                    .FirstOrDefaultAsync(m => m.Id == medicineId.Value);
+
+                if (medicine != null)
+                {
+                    ViewData["Medicine"] = medicine;  // Pass the selected medicine to ViewData for the modal
+                }
+            }
+
+            ViewData["CurrentPage"] = page;
+            ViewData["TotalPages"] = totalPages;
+            ViewData["SearchQuery"] = searchQuery;
+
+            return View(medicines); // Return the view with the medicines and the selected one for the modal
         }
 
-        // GET: Medicines/Details/5
-        public async Task<IActionResult> Details(int? id)
+        //// GET: Medicines/Details/5
+        //public async Task<IActionResult> Details(int? id)
+        //{
+        //    if (id == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var medicine = await _context.Medicines
+        //        .FirstOrDefaultAsync(m => m.Id == id);
+        //    if (medicine == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    return View(medicine);
+        //}
+
+        public async Task<IActionResult> Details(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
-
             var medicine = await _context.Medicines
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (medicine == null)
@@ -40,8 +94,9 @@ namespace PharmaReachMVC.Controllers
                 return NotFound();
             }
 
-            return View(medicine);
+            return PartialView("_MedicineDetails", medicine);
         }
+
 
         // GET: Medicines/Create
         public IActionResult Create()
