@@ -1,0 +1,61 @@
+﻿@model PharmaReachMVC.ViewModels.MedicineViewModel
+
+<div class="col-md-4 col-lg-3 mb-4">
+    <div class="card h-100 shadow-sm">
+        <!-- Image Section -->
+        <div class="overflow-hidden" style="height: 200px;">
+            <img src="@Model.Medicine.ImageUrl" class="card-img-top scale-on-hover" alt="Medicine-Image-@Model.Medicine.Name" style="object-fit: contain; height: 100%; width: 100%;">
+        </div>
+
+        <div class="card-body d-flex flex-column">
+            <!-- Product Name and Price -->
+            <div class="d-flex align-items-baseline justify-content-between">
+                <h5 class="card-title">@Model.Medicine.Name</h5>
+                <p class="card-text fw-bold">$@Model.Medicine.Price</p>
+            </div>
+
+            <!-- Product Description -->
+            <div>
+                <p class="card-text text-truncate fs-sm">@Model.Medicine.Description</p>
+            </div>
+
+            <!-- Button trigger modal - Details Link -->
+            <div class="medicine-item w-100 mb-auto text-end">
+                <div role="button" class="open-medicine-modal icon-link icon-link-hover text-primary"
+                     data-bs-toggle="modal"
+                     data-bs-target="#exampleModal"
+                     data-id="@Model.Medicine.Id"
+                     data-name="@Model.Medicine.Name"
+                     data-description="@Model.Medicine.Description"
+                     data-price="@Model.Medicine.Price"
+                     data-imageurl="@Model.Medicine.ImageUrl"
+                     data-createdat="@Model.Medicine.CreatedAt"
+                     data-isfree="@Model.IsFree"
+                     data-canbefree="@Model.CanBeFree">
+                    Details
+                    <svg xmlns="http://www.w3.org/2000/svg" class="bi" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" />
+                    </svg>
+                </div>
+            </div>
+
+            <!-- Action Links -->
+            <div class="mt-auto">
+                @if (Model.IsFree)
+                {
+                    <a href="@Url.Action("Details", new { id = Model.Medicine.Id })" class="btn btn-outline-danger w-100 mb-2">Get it for free now!</a>
+                }
+                @if (Model.CanBeFree)
+                {
+                    <a href="@Url.Action("Details", new { id = Model.Medicine.Id })" class="btn btn-outline-success w-100 mb-2">Give it to others!</a>
+                }
+
+                <form method="post" action="@Url.Action("AddToCart", "Orders")">
+                    <!-- Hidden field for Medicine Id -->
+                    <input type="hidden" name="medicineId" value="@Model.Medicine.Id" />
+                    <button type="submit" class="btn btn-primary w-100">Buy Now</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

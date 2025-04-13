@@ -25,7 +25,6 @@ namespace PharmaReachMVC.Models
         [Range(0, int.MaxValue, ErrorMessage = "QuantityAvailable must be a positive number.")]
         public int QuantityAvailable { get; set; }
 
-        [Range(0, 999999999999999999.99, ErrorMessage = "PriceOverride must be a positive number.")]
         public decimal? PriceOverride { get; set; }
     }
 }

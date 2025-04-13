@@ -53,7 +53,7 @@ namespace PharmaReachMVC.Controllers
             ViewData["PharmacyId"] = new SelectList(_context.Pharmacies, "Id", "Email");
             return View();
         }
-
+        
         // POST: Orders/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -166,5 +166,68 @@ namespace PharmaReachMVC.Controllers
         {
             return _context.Orders.Any(e => e.Id == id);
         }
+
+        //public async Task<IActionResult> AddToCart(int medicineId)
+        //{
+        //    // Get the current logged-in customer
+        //    var customerId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+        //    if (string.IsNullOrEmpty(customerId))
+        //    {
+        //        return RedirectToAction("Login", "Account");
+        //    }
+
+        //    // Check if the customer already has an active order (in progress)
+        //    var existingOrder = await _context.Orders
+        //        .FirstOrDefaultAsync(o => o.CustomerId == customerId && o.Status == OrderStatus.InProgress);
+
+        //    if (existingOrder == null)
+        //    {
+        //        // If no active order, create a new order
+        //        var newOrder = new Order
+        //        {
+        //            CustomerId = customerId,
+        //            Status = OrderStatus.InProgress, // Use the enum value here
+        //            CreatedAt = DateTime.Now,
+        //            TotalPrice = 0,
+        //            // Assuming the pharmacy ID is part of the logged-in customer or elsewhere; you can adjust this as needed
+        //            PharmacyId = 1, // This should come from a valid source, such as the customer's default pharmacy
+        //            Name = "New Order", // This could be dynamically set or passed as part of the user request
+        //        };
+
+        //        _context.Orders.Add(newOrder);
+        //        await _context.SaveChangesAsync();
+
+        //        existingOrder = newOrder;
+        //    }
+
+        //    // Get the medicine details
+        //    var medicine = await _context.Medicines.FirstOrDefaultAsync(m => m.Id == medicineId);
+        //    if (medicine == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    // Add the medicine to the order details
+        //    var orderDetail = new OrderDetail
+        //    {
+        //        OrderId = existingOrder.Id,
+        //        MedicineId = medicine.Id,
+        //        Quantity = 1,
+        //        PricePerItem = medicine.Price,
+        //        TotalPricePerItem = medicine.Price
+        //    };
+
+        //    _context.OrderDetails.Add(orderDetail);
+        //    existingOrder.TotalPrice += medicine?.Price ?? 0;
+
+        //    // Update the order with the new total price and date
+        //    existingOrder.UpdatedAt = DateTime.Now;
+
+        //    await _context.SaveChangesAsync();
+
+        //    return RedirectToAction("Details", "Orders", new { id = existingOrder.Id });
+        //}
+
     }
 }

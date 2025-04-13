@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PharmaReachMVC;
 using PharmaReachMVC.Models;
+using PharmaReachMVC.ViewModels;
 
 namespace PharmaReachMVC.Controllers
 {
@@ -26,67 +27,56 @@ namespace PharmaReachMVC.Controllers
         //}
 
         // GET: Medicines
-        public async Task<IActionResult> Index(string searchQuery, int page = 1, int? medicineId = null)
+        public async Task<IActionResult> Index(string searchQuery, bool? isFreeFilter = null, bool? canBeFreeFilter = null, int page = 1)
         {
-            int pageSize = 8; // Items per page
+            int pageSize = 8;
             var query = _context.Medicines.AsQueryable();
 
+            // Apply search query if provided
             if (!string.IsNullOrWhiteSpace(searchQuery))
             {
                 query = query.Where(m => m.Name.Contains(searchQuery) || m.Description.Contains(searchQuery));
             }
 
+            // Apply active tab filters:
+            if (canBeFreeFilter.HasValue)
+            {
+                query = query.Where(m => _context.MedicinePharmacyCanBeFrees.Any(f => f.MedicineId == m.Id) == canBeFreeFilter.Value);
+            }
+            else if (isFreeFilter.HasValue)
+            {
+                query = query.Where(m => _context.MedicinePharmacyIsFrees.Any(f => f.MedicineId == m.Id) == isFreeFilter.Value);
+            }
+
+            // Pagination logic
             var totalItems = await query.CountAsync();
             var totalPages = (int)Math.Ceiling(totalItems / (double)pageSize);
+            var medicines = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
 
-            var medicines = await query
-                .Skip((page - 1) * pageSize)
-                .Take(pageSize)
-                .ToListAsync();
-
-            // If a medicine ID is provided, fetch the medicine details for modal
-            if (medicineId.HasValue)
+            var medicineViewModels = medicines.Select(m => new MedicineViewModel
             {
-                var medicine = await _context.Medicines
-                    .FirstOrDefaultAsync(m => m.Id == medicineId.Value);
-
-                if (medicine != null)
-                {
-                    ViewData["Medicine"] = medicine;  // Pass the selected medicine to ViewData for the modal
-                }
-            }
+                Medicine = m,
+                IsFree = _context.MedicinePharmacyIsFrees.Any(f => f.MedicineId == m.Id),
+                CanBeFree = _context.MedicinePharmacyCanBeFrees.Any(f => f.MedicineId == m.Id)
+            }).ToList();
 
             ViewData["CurrentPage"] = page;
             ViewData["TotalPages"] = totalPages;
             ViewData["SearchQuery"] = searchQuery;
+            ViewData["IsFreeFilter"] = isFreeFilter;
+            ViewData["CanBeFreeFilter"] = canBeFreeFilter;
 
-            return View(medicines); // Return the view with the medicines and the selected one for the modal
+            return View(medicineViewModels);
         }
 
-        //// GET: Medicines/Details/5
-        //public async Task<IActionResult> Details(int? id)
-        //{
-        //    if (id == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    var medicine = await _context.Medicines
-        //        .FirstOrDefaultAsync(m => m.Id == id);
-        //    if (medicine == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    return View(medicine);
-        //}
-
-        public async Task<IActionResult> Details(int id)
+        // GET: Medicines/Details/5
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
+
             var medicine = await _context.Medicines
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (medicine == null)
@@ -94,7 +84,26 @@ namespace PharmaReachMVC.Controllers
                 return NotFound();
             }
 
-            return PartialView("_MedicineDetails", medicine);
+            return View(medicine);
+        }
+
+        // GET: Medicines/DetailsPartial/5
+        public async Task<IActionResult> DetailsPartial(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var medicine = await _context.Medicines
+                .FirstOrDefaultAsync(m => m.Id == id);
+
+            if (medicine == null)
+            {
+                return NotFound();
+            }
+
+            return PartialView("_MedicineDetailsPartial", medicine);
         }
 
 

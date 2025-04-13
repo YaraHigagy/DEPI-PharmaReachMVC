@@ -45,7 +45,7 @@ VALUES
     ('Risperidone', 'Used to treat schizophrenia, bipolar disorder, and irritability in autism.', 26.00, '/images/risperidone.jpg', '2023-04-24 20:17:50.000'),
     ('Zithromax', 'Antibiotic used to treat various bacterial infections.', 16.50, '/images/zithromax.png', '2024-07-13 04:04:06.000'),
     ('Metoprolol', 'Beta blocker used to treat high blood pressure and heart disease.', 9.99, '/images/metoprolol.png', '2023-08-30 19:38:59.000'),
-    ('Enalapril', 'ACE inhibitor used to treat high blood pressure and heart failure.', 10.99, '/images/enalapril.png', '2023-03-19 16:11:17.000'),
+    ('Enalapril', 'ACE inhibitor used to treat high blood pressure and heart failure.', 10.99, '/images/enalapril.jpg', '2023-03-19 16:11:17.000'),
     ('Pravastatin', 'Used to lower cholesterol levels and reduce the risk of heart disease.', 14.75, '/images/pravastatin.jpg', '2023-10-05 06:49:25.000'),
     ('Carvedilol', 'Beta blocker used to treat high blood pressure and heart failure.', 13.25, '/images/carvedilol.jpg', '2024-09-11 10:02:41.000'),
     ('Chlorthalidone', 'Diuretic used to treat high blood pressure and swelling.', 8.99, '/images/chlorthalidone.jpg', '2023-12-19 03:58:12.000'),
