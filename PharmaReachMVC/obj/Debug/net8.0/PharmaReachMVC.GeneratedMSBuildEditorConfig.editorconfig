@@ -17,269 +17,293 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PharmaReachMVC
 build_property.RootNamespace = PharmaReachMVC
-build_property.ProjectDir = C:\Users\Pc\Desktop\reach\PharmaReachMVC\
+build_property.ProjectDir = F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pc\Desktop\reach\PharmaReachMVC
+build_property.MSBuildProjectDirectory = F:\Course-DEPI-FullStack.netWebDev\FinalProject\PharmaReachMVC\PharmaReachMVC\PharmaReachMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Addresses/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Addresses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Addresses/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Addresses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Addresses/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Addresses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Addresses/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Addresses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Addresses/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Addresses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Cities/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Cities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Cities/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Cities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Cities/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Cities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Cities/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Cities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Cities/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Cities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Countries/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Countries/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Countries/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Countries/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Countries/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Countries/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Countries/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Countries/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Countries/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Countries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Customers/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Customers/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Customers/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Customers/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Customers/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customer/CustomerProfileViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJQcm9maWxlVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Home/Privacy.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUNhbkJlRnJlZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUNhbkJlRnJlZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUNhbkJlRnJlZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUNhbkJlRnJlZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyCanBeFrees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUNhbkJlRnJlZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUlzRnJlZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUlzRnJlZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUlzRnJlZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUlzRnJlZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/MedicinePharmacyIsFrees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVQaGFybWFjeUlzRnJlZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/charitableMedicines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXGNoYXJpdGFibGVNZWRpY2luZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Medicines/_MedicineDetailsPartial.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/prepaidMedicines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXHByZXBhaWRNZWRpY2luZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Medicines/_MedicineDetailsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXF9NZWRpY2luZURldGFpbHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/OrderDetails/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/OrderDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/OrderDetails/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/OrderDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/OrderDetails/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/OrderDetails/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/OrderDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/OrderDetails/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Orders/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Orders/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Orders/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Orders/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Orders/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Pharmacies/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Pharmacies/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Pharmacies/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Pharmacies/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Pharmacies/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/PharmacyMedicines/Create.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/PharmacyMedicines/Delete.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/PharmacyMedicines/Details.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/PharmacyMedicines/Edit.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/PharmacyMedicines/Index.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacy/PharmacyProfileViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lcUGhhcm1hY3lQcm9maWxlVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacy/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Shared/_MedicineCard.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Shared/_MedicineCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZWRpY2luZUNhcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/_ViewImports.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/_ViewStart.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pc/Desktop/reach/PharmaReachMVC/Views/Shared/_Layout.cshtml]
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kehh5zi4o1

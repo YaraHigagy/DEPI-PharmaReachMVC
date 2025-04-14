@@ -1,0 +1,29 @@
+﻿@model IEnumerable<PharmaReachMVC.ViewModels.MedicineViewModel>
+
+@{
+    ViewData["Title"] = "Charitable Medicines";
+}
+
+<h1>Charitable Medicines</h1>
+
+@foreach (var item in Model)
+{
+    <p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <div class="col-12 text-center my-5">
+                <p class="fs-4">No medicines found.</p>
+            </div>
+        }
+
+        @foreach (var medicineViewModel in Model)
+        {
+            // Check if CanBeFree is true
+            if (medicineViewModel.CanBeFree)
+            {
+                @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+            }
+        }
+    </div>
+}
