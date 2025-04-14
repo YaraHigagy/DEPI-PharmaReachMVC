@@ -38,6 +38,11 @@ namespace PharmaReachMVC.Models
         [ForeignKey(nameof(AddressId))]
         public Address Address { get; set; }
 
+        // Navigation property for the ApplicationUser
+        public string ApplicationUserId { get; set; }  // Link to the ApplicationUser
+        [ForeignKey("ApplicationUserId")]
+        public ApplicationUser ApplicationUser { get; set; }
+
         public ICollection<Order> Orders { get; set; }
 
         public ICollection<PharmacyMedicine> PharmacyMedicines { get; set; }

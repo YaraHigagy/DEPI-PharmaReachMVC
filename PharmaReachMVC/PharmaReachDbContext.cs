@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PharmaReachMVC.Configurations;
 using PharmaReachMVC.Models;
 using System;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace PharmaReachMVC
 {
-    public class PharmaReachDbContext : DbContext
+    public class PharmaReachDbContext : IdentityDbContext<ApplicationUser>
     {
         // Constructor
         public PharmaReachDbContext(DbContextOptions<PharmaReachDbContext> Options) : base(Options)

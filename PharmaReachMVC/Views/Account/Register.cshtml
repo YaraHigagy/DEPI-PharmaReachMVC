@@ -1,0 +1,29 @@
+﻿@model PharmaReachMVC.ViewModels.RegisterViewModel
+
+<div class="w-75 mx-auto">
+    <h2>Register</h2>
+
+    <form method="post">
+        <div class="d-flex flex-column gap-3 my-3">
+            <div class="form-group">
+                <label for="Name">Name</label>
+                <input type="text" name="Name" id="Name" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="Email">Email</label>
+                <input type="email" name="Email" id="Email" class="form-control" required />
+            </div>
+
+            <!-- Add UserType selection -->
+            <div class="form-group">
+                <label for="UserType">User Type</label>
+                <select name="UserType" id="UserType" class="form-control" required>
+                    <option value="Customer">Customer</option>
+                    <option value="Pharmacy">Pharmacy</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary me-auto">Register</button>
+        </div>
+    </form>
+</div>

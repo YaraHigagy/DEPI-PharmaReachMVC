@@ -17,7 +17,7 @@
             @* <img src="https://via.placeholder.com/100" class="rounded-circle ms-4 mb-3 border border-3 border-white" style="width: 100px; height: 100px;" alt="Pharmacy Logo" /> *@
             <div class="rounded-circle ms-4 mb-3 border border-3 border-white text-secondary d-flex align-items-center justify-content-center fs-1 fw-bold" style="width: 100px; height: 100px;">@Model.PharmacyInitials</div>
             <div class="ms-3 mb-3 text-white">
-                <h3 class="mb-0" style="color:black" >@Model.Pharmacy.Name Pharmacy</h3>
+                <h3 class="mb-0" style="color:black" >@Model.Pharmacy.Name</h3>
                 <small class="text-white-50">Joined on @Model.Pharmacy.CreatedAt.ToString("MMMM dd, yyyy")</small>
             </div>
         </div>
@@ -65,7 +65,7 @@
                         <select class="form-select form-select-sm order-status-dropdown" data-order-id="@order.Id" > 
                             @foreach (PharmaReachMVC.Models.OrderStatus status in Enum.GetValues(typeof(PharmaReachMVC.Models.OrderStatus))) 
                             { 
-                            <option value="@((int)status)" selected="@(order.Status == (PharmaReachMVC.Models.OrderStatus)status)"> 
+                            <option role="button" value="@((int)status)" selected="@(order.Status == (PharmaReachMVC.Models.OrderStatus)status)"> 
                                     @status 
                                 </option> 
                             } 

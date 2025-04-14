@@ -55,12 +55,19 @@
                         @* <a href="@Url.Action("MyCart", "Orders")"> *@
                         @*     <i class="fa-solid fa-cart-plus"></i> *@
                         @* </a> *@
-                        <button data-mdb-ripple-init type="button" class="btn btn-link px-3 me-2">
-                            Login
-                        </button>
-                        <button data-mdb-ripple-init type="button" class="btn btn-primary">
-                            Login as a pharmacy
-                        </button>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @* <a href="@Url.Action("Logout", "Account")" class="btn btn-light">Logout</a> *@
+                            <form method="post" asp-action="Logout" asp-controller="Account" class="d-inline">
+                                <button type="submit" class="btn btn-light">Logout</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a href="@Url.Action("Login", "Account")" class="btn btn-primary">
+                                Login
+                            </a>
+                        }
                     </div>
                 </div>
                 <!-- Collapsible wrapper -->
@@ -69,6 +76,7 @@
         </nav>
         <!-- Navbar -->
     </header>
+
     <div class="flex-grow-1 container">
         <main role="main" class="pb-3">
             @RenderBody()

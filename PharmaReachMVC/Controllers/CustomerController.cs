@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PharmaReachMVC.Models;
 using PharmaReachMVC.Utilities;
@@ -6,6 +7,8 @@ using PharmaReachMVC.ViewModels;
 
 namespace PharmaReachMVC.Controllers
 {
+    // Authorize the user and ensure they have the "Customer" role
+    [Authorize(Roles = "Customer")]
     public class CustomerController : Controller
     {
         private readonly PharmaReachDbContext _context;
@@ -15,7 +18,7 @@ namespace PharmaReachMVC.Controllers
             _context = context;
         }
 
-        public IActionResult Profile(int id = 4)
+        public IActionResult Profile(int id)
         {
             var customer = _context.Customers
                 .Include(c => c.Address)

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PharmaReachMVC.Models;
 using PharmaReachMVC.Utilities;
@@ -6,6 +7,8 @@ using PharmaReachMVC.ViewModels;
 
 namespace PharmaReachMVC.Controllers
 {
+    // Authorize the user and ensure they have the "Pharmacy" role
+    [Authorize(Roles = "Pharmacy")]
     public class PharmacyController : Controller
     {
         private readonly PharmaReachDbContext _context;
@@ -15,7 +18,8 @@ namespace PharmaReachMVC.Controllers
             _context = context;
         }
 
-        public IActionResult Profile(int id = 4)
+        // GET: Pharmacy/Profile
+        public IActionResult Profile(string id)  // Using string to allow for GUID if necessary
         {
             var viewModel = GetPharmacyProfileViewModel(id);
             if (viewModel == null)
@@ -24,6 +28,7 @@ namespace PharmaReachMVC.Controllers
             return View(viewModel);
         }
 
+        // POST: Pharmacy/Profile (AJAX request for updating order status)
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Profile([FromBody] ProfilePostData data)
@@ -49,7 +54,8 @@ namespace PharmaReachMVC.Controllers
             return View(viewModel);
         }
 
-        private PharmacyProfileViewModel GetPharmacyProfileViewModel(int pharmacyId)
+        // Helper function to get the pharmacy profile view model based on the pharmacy ID
+        private PharmacyProfileViewModel GetPharmacyProfileViewModel(string pharmacyId)
         {
             var pharmacy = _context.Pharmacies
                 .Include(p => p.Address)
@@ -58,7 +64,7 @@ namespace PharmaReachMVC.Controllers
                 .Include(p => p.Orders)
                     .ThenInclude(o => o.OrderDetails)
                         .ThenInclude(od => od.Medicine)
-                .FirstOrDefault(p => p.Id == pharmacyId);
+                .FirstOrDefault(p => p.Id.ToString() == pharmacyId);  // Adjust for string ID
 
             if (pharmacy == null) return null;
 
@@ -72,6 +78,7 @@ namespace PharmaReachMVC.Controllers
             return viewModel;
         }
 
+        // POST method to update order status from the Pharmacy's profile page
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult UpdateOrderStatus(int orderId, OrderStatus newStatus)
@@ -88,13 +95,13 @@ namespace PharmaReachMVC.Controllers
             return Ok(new { message = "Status updated successfully." });
         }
 
-        // Helper class to map the posted JSON
+        // Helper class to map the posted JSON (for AJAX requests)
         public class ProfilePostData
         {
             public bool ajax { get; set; }
             public int orderId { get; set; }
             public int newStatus { get; set; }
-            public int id { get; set; }  // Pharmacy id (optional, if needed)
+            public string id { get; set; }  // Pharmacy id (string type for GUID support)
         }
     }
 }

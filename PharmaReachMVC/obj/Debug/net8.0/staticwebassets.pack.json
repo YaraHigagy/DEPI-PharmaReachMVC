@@ -337,6 +337,10 @@
       "PackagePath": "staticwebassets\\images\\omeprazole.png"
     },
     {
+      "Id": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\panadol.png",
+      "PackagePath": "staticwebassets\\images\\panadol.png"
+    },
+    {
       "Id": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\paracetamol.png",
       "PackagePath": "staticwebassets\\images\\paracetamol.png"
     },

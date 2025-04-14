@@ -1,0 +1,19 @@
+﻿@model PharmaReachMVC.ViewModels.LoginViewModel
+
+<div class="w-75 mx-auto">
+    <h2>Login</h2>
+
+    <form method="post">
+        <div class="d-flex flex-column gap-3 my-3">
+            <div class="form-group">
+                <label for="Email">Email</label>
+                <input type="email" name="Email" id="Email" class="form-control" required />
+            </div>
+            <button type="submit" class="btn btn-primary me-auto">Login</button>
+        </div>
+    </form>
+
+    <div>
+        <p>Don't have an account? <a href="@Url.Action("Register", "Account")">Register here</a></p>
+    </div>
+</div>

@@ -387,14 +387,14 @@
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yIrrHWF4DX83iNC2FIU\u002BmVEn4ViGmDQC79KvdJ5mAPo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"699"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yIrrHWF4DX83iNC2FIU\u002BmVEn4ViGmDQC79KvdJ5mAPo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 03:04:34 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"735"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 08:39:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.owj8w13ueg.css">
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/css/site.exxljgruyd.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"owj8w13ueg"},{"Name":"integrity","Value":"sha256-yIrrHWF4DX83iNC2FIU\u002BmVEn4ViGmDQC79KvdJ5mAPo="},{"Name":"label","Value":"_content/PharmaReachMVC/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"699"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yIrrHWF4DX83iNC2FIU\u002BmVEn4ViGmDQC79KvdJ5mAPo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 03:04:34 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"exxljgruyd"},{"Name":"integrity","Value":"sha256-/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg="},{"Name":"label","Value":"_content/PharmaReachMVC/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"735"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 08:39:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/favicon.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -851,6 +851,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qchf26jjz8"},{"Name":"integrity","Value":"sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="},{"Name":"label","Value":"_content/PharmaReachMVC/images/omeprazole.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"381643"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 09:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/panadol.9ipshn46rt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\panadol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ipshn46rt"},{"Name":"integrity","Value":"sha256-32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs="},{"Name":"label","Value":"_content/PharmaReachMVC/images/panadol.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"255474"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002232Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:51:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/panadol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\panadol.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"255474"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002232Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:51:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/images/paracetamol.hvkohtg1te.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\paracetamol.png'))</AssetFile>

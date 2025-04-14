@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RvsihC+gZEDeoVhi9CPgE+NjAUa7CwsbbMX+lSLK5Fw=",
+  "Hash": "EAWhgFf+reCZb8JEaf9VKzvbTj9mj19+UOvvFZ/YUTY=",
   "Source": "PharmaReachMVC",
   "BasePath": "_content/PharmaReachMVC",
   "Mode": "Default",
@@ -997,8 +997,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "owj8w13ueg",
-      "Integrity": "yIrrHWF4DX83iNC2FIU+mVEn4ViGmDQC79KvdJ5mAPo=",
+      "Fingerprint": "exxljgruyd",
+      "Integrity": "/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1800,6 +1800,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\omeprazole.png"
+    },
+    {
+      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\panadol.png",
+      "SourceId": "PharmaReachMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\",
+      "BasePath": "_content/PharmaReachMVC",
+      "RelativePath": "images/panadol#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ipshn46rt",
+      "Integrity": "32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\panadol.png"
     },
     {
       "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\paracetamol.png",
@@ -14161,7 +14182,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "699"
+          "Value": "735"
         },
         {
           "Name": "Content-Type",
@@ -14169,11 +14190,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yIrrHWF4DX83iNC2FIU+mVEn4ViGmDQC79KvdJ5mAPo=\""
+          "Value": "\"/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:04:34 GMT"
+          "Value": "Mon, 14 Apr 2025 08:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14183,12 +14204,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yIrrHWF4DX83iNC2FIU+mVEn4ViGmDQC79KvdJ5mAPo="
+          "Value": "sha256-/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg="
         }
       ]
     },
     {
-      "Route": "css/site.owj8w13ueg.css",
+      "Route": "css/site.exxljgruyd.css",
       "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -14198,7 +14219,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "699"
+          "Value": "735"
         },
         {
           "Name": "Content-Type",
@@ -14206,11 +14227,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yIrrHWF4DX83iNC2FIU+mVEn4ViGmDQC79KvdJ5mAPo=\""
+          "Value": "\"/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:04:34 GMT"
+          "Value": "Mon, 14 Apr 2025 08:39:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14220,7 +14241,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "owj8w13ueg"
+          "Value": "exxljgruyd"
         },
         {
           "Name": "label",
@@ -14228,7 +14249,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yIrrHWF4DX83iNC2FIU+mVEn4ViGmDQC79KvdJ5mAPo="
+          "Value": "sha256-/v0GS776QFrCrvEPcZCk3KBmji9pJ6Eqsi4eM1G2cZg="
         }
       ]
     },
@@ -17345,6 +17366,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-mg/esFcw2EE/t6sfwPPAh9B/EPd2jCLX7Um13jhpjUw="
+        }
+      ]
+    },
+    {
+      "Route": "images/panadol.9ipshn46rt.png",
+      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\panadol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:51:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ipshn46rt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/panadol.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs="
+        }
+      ]
+    },
+    {
+      "Route": "images/panadol.png",
+      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\wwwroot\\images\\panadol.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:51:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-32Kyf5MGCgTJmUGcE1Rgrd19mfQ8EbNEum9YbKKV0xs="
         }
       ]
     },
