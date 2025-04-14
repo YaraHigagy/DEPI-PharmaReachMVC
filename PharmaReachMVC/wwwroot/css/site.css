@@ -34,6 +34,6 @@ h1, h2, h3, h4, h5, h6, p, span {
 .scale-on-hover {
     transition: transform 0.3s ease-in-out;
 }
-.scale-on-hover:hover {
-    transform: scale(1.05); /* Scale to 105% on hover */
+.parent-scale-on-hover:hover .scale-on-hover {
+    transform: scale(1.05); /* Scale image when hovering the li */
 }

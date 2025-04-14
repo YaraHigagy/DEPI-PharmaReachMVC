@@ -106,23 +106,23 @@
     <div class="tab-content" id="ex-with-icons-content">
         <div class="tab-pane fade" id="ex-with-icons-tabs-1" role="tabpanel" aria-labelledby="ex-with-icons-tab-1">
             <p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
-        <div class="row">
-            @if (!Model.Any())
-            {
-                <div class="col-12 text-center my-5">
-                    <p class="fs-4">No medicines found.</p>
-                </div>
-            }
-
-            @foreach (var medicineViewModel in Model)
-            {
-                // Check if CanBeFree is true
-                if (medicineViewModel.CanBeFree)
+            <div class="row">
+                @if (!Model.Any())
                 {
-                    @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                    <div class="col-12 text-center my-5">
+                        <p class="fs-4">No medicines found.</p>
+                    </div>
                 }
-            }
-        </div>
+
+                @foreach (var medicineViewModel in Model)
+                {
+                    // Check if CanBeFree is true
+                    if (medicineViewModel.CanBeFree)
+                    {
+                        @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                    }
+                }
+            </div>
 
         </div>
         <div class="tab-pane fade show active" id="ex-with-icons-tabs-2" role="tabpanel" aria-labelledby="ex-with-icons-tab-2">
@@ -133,32 +133,32 @@
                     <p class="fs-4">No medicines found.</p>
                 </div>
                 }
-            @foreach (var medicineViewModel in Model)
-            {
-                @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
-            }
-            </div>
-        </div>
-        <div class="tab-pane fade" id="ex-with-icons-tabs-3" role="tabpanel" aria-labelledby="ex-with-icons-tab-3">
-            <p>Here are free medicines available for anyone in need, with no cost involved. These are provided to support those who cannot afford necessary treatments.</p>
-        <div class="row">
-            @if (!Model.Any())
-            {
-                <div class="col-12 text-center my-5">
-                    <p class="fs-4">No medicines found.</p>
-                </div>
-            }
-
-            @foreach (var medicineViewModel in Model)
-            {
-                // Check if CanBeFree or IsFree is true
-                if (medicineViewModel.IsFree)
+                @foreach (var medicineViewModel in Model)
                 {
                     @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
                 }
-            }
+            </div>
         </div>
 
+        <div class="tab-pane fade" id="ex-with-icons-tabs-3" role="tabpanel" aria-labelledby="ex-with-icons-tab-3">
+            <p>Here are free medicines available for anyone in need, with no cost involved. These are provided to support those who cannot afford necessary treatments.</p>
+            <div class="row">
+                @if (!Model.Any())
+                {
+                    <div class="col-12 text-center my-5">
+                        <p class="fs-4">No medicines found.</p>
+                    </div>
+                }
+
+                @foreach (var medicineViewModel in Model)
+                {
+                    // Check if CanBeFree or IsFree is true
+                    if (medicineViewModel.IsFree)
+                    {
+                        @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                    }
+                }
+            </div>
         </div>
     </div>
     <!-- Tabs content -->
@@ -308,6 +308,8 @@
                 document.getElementById('btnGive').classList.add(canBeFree ? 'd-block' : 'd-none');
             });
         });
+
+
 
         // Example conversion rates
         const usdToEgpRate = 50; // 1 USD = 50 EGP

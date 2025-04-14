@@ -108,6 +108,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customer/CustomerProfileViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJQcm9maWxlVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Customer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -258,6 +266,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/PharmacyMedicines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lNZWRpY2luZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacy/PharmacyProfileViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lcUGhhcm1hY3lQcm9maWxlVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Pharmacy/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC/PharmaReachMVC/PharmaReachMVC/Views/Shared/Error.cshtml]
