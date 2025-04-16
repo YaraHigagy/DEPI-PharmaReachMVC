@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KavAgKrpW7F6KKNqTJXmshYJ0ZzU/dSSOvw0LwjGWYo=",
+  "Hash": "L1J5qCMhj4wy/hyeoS9KH7m8EfhV0WHkDDhc8JBNvy8=",
   "Source": "PharmaReachMVC",
   "BasePath": "_content/PharmaReachMVC",
   "Mode": "Default",
@@ -2073,6 +2073,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\zolpidem.png"
+    },
+    {
+      "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\medicineModal.js",
+      "SourceId": "PharmaReachMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\",
+      "BasePath": "_content/PharmaReachMVC",
+      "RelativePath": "js/medicineModal#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tnjlsvpv9c",
+      "Integrity": "yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\medicineModal.js"
     },
     {
       "Identity": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\site.js",
@@ -19416,6 +19437,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM+8="
+        }
+      ]
+    },
+    {
+      "Route": "js/medicineModal.js",
+      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\medicineModal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:59:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg="
+        }
+      ]
+    },
+    {
+      "Route": "js/medicineModal.tnjlsvpv9c.js",
+      "AssetFile": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\medicineModal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 22:59:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnjlsvpv9c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/medicineModal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg="
         }
       ]
     },

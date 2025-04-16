@@ -389,6 +389,10 @@
       "PackagePath": "staticwebassets\\images\\zolpidem.png"
     },
     {
+      "Id": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\medicineModal.js",
+      "PackagePath": "staticwebassets\\js\\medicineModal.js"
+    },
+    {
       "Id": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,29 +1,79 @@
-﻿@model IEnumerable<PharmaReachMVC.ViewModels.MedicineViewModel>
+﻿@* @model IEnumerable<PharmaReachMVC.ViewModels.MedicineViewModel> *@
+@model Tuple<List<PharmaReachMVC.ViewModels.MedicineViewModel>, PharmaReachMVC.ViewModels.MedicineSearchViewModel>
+
 
 @{
     ViewData["Title"] = "Charitable Medicines";
+    var medicines = Model.Item1;
+    var searchViewModel = Model.Item2;
 }
 
-<h1>Charitable Medicines</h1>
+<!-- Render the shared search and filter component -->
+@Html.Partial("_SearchAndFilter", searchViewModel)
 
-@* @foreach (var item in Model) *@
-@* { *@
-    <p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
-    <div class="row">
-        @if (!Model.Any())
+<p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
+
+<div class="row my-3">
+    @if (!medicines.Any())
+    {
+        <div class="col-12 text-center my-5">
+            <p class="fs-4">No medicines found.</p>
+        </div>
+    }
+
+    @foreach (var medicineViewModel in medicines)
+    {
+        // Check if CanBeFree is true
+        if (medicineViewModel.CanBeFree)
         {
-            <div class="col-12 text-center my-5">
-                <p class="fs-4">No medicines found.</p>
-            </div>
+            @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+        }
+    }
+</div>
+
+<!-- Pagination -->
+<nav aria-label="Page navigation example" class="d-flex align-items-center justify-content-center">
+    <ul class="pagination">
+        @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] - 1 })">Previous</a>
+            </li>
         }
 
-        @foreach (var medicineViewModel in Model)
+        @for (int i = 1; i <= (int)ViewData["TotalPages"]; i++)
         {
-            // Check if CanBeFree is true
-            if (medicineViewModel.CanBeFree)
-            {
-                @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
-            }
+            <li class="page-item @(i == (int)ViewData["CurrentPage"] ? "active" : "")">
+                <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = i })">@i</a>
+            </li>
         }
-    </div>
-@* } *@
+
+        @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] < (int)ViewData["TotalPages"])
+        {
+            <li class="page-item">
+                <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] + 1 })">Next</a>
+            </li>
+        }
+    </ul>
+</nav>
+<!-- Pagination -->
+
+
+
+<!-- Shared Medicine Modal -->
+@Html.Partial("_MedicineModal")
+
+
+
+@section Scripts {
+    <script src="~/js/medicineModal.js"></script>
+}

@@ -1,0 +1,334 @@
+﻿@using PharmaReachMVC.ViewModels
+@* @model IEnumerable<MedicineViewModel> *@
+@* @model IEnumerable<PharmaReachMVC.Models.Medicine> *@
+@model Tuple<List<MedicineViewModel>, MedicineSearchViewModel>
+
+@{
+    ViewData["Title"] = "Medicines";
+    var searchQuery = ViewData["SearchQuery"] as string ?? "";
+    var currentPage = ViewData["CurrentPage"] != null ? Convert.ToInt32(ViewData["CurrentPage"]) : 1;
+    var totalPages = ViewData["TotalPages"] != null ? Convert.ToInt32(ViewData["TotalPages"]) : 1;
+    var medicines = Model.Item1;
+    var searchViewModel = Model.Item2;
+}
+
+<!-- Render the shared search and filter component -->
+@Html.Partial("_SearchAndFilter", searchViewModel)
+
+    <!-- Tabs navs -->
+    <div class="d-flex align-items-center justify-content-center">
+        <ul class="nav nav-tabs mb-5" id="ex-with-icons" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a data-mdb-tab-init class="nav-link" id="ex-with-icons-tab-1" href="#ex-with-icons-tabs-1" role="tab"
+                   aria-controls="ex-with-icons-tabs-1" aria-selected="false"><i class="fas fa-heart fa-fw me-2"></i>Medicines for a Cause</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a data-mdb-tab-init class="nav-link active" id="ex-with-icons-tab-2" href="#ex-with-icons-tabs-2" role="tab"
+                   aria-controls="ex-with-icons-tabs-2" aria-selected="true"><i class="fas fa-globe fa-fw me-2"></i>All Medicines</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a data-mdb-tab-init class="nav-link" id="ex-with-icons-tab-3" href="#ex-with-icons-tabs-3" role="tab"
+                   aria-controls="ex-with-icons-tabs-3" aria-selected="false"><i class="fas fa-gift fa-fw me-2"></i>Medicines for Free</a>
+            </li>
+        </ul>
+    </div>
+    <!-- Tabs navs -->
+    <!-- Tabs content -->
+    <div class="tab-content" id="ex-with-icons-content">
+        <div class="tab-pane fade" id="ex-with-icons-tabs-1" role="tabpanel" aria-labelledby="ex-with-icons-tab-1">
+            <p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
+            <div class="row">
+            @if (!medicines.Any())
+                {
+                    <div class="col-12 text-center my-5">
+                        <p class="fs-4">No medicines found.</p>
+                    </div>
+                }
+
+            @foreach (var medicineViewModel in medicines)
+                {
+                    // Check if CanBeFree is true
+                    if (medicineViewModel.CanBeFree)
+                    {
+                        @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                    }
+                }
+            </div>
+            <!-- Pagination -->
+            <nav aria-label="Page navigation example" class="d-flex align-items-center justify-content-center">
+                <ul class="pagination">
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] > 1)
+                    {
+                        <li class="page-item">
+                        <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] - 1 })">Previous</a>
+                        </li>
+                    }
+
+                    @for (int i = 1; i <= (int)ViewData["TotalPages"]; i++)
+                    {
+                        <li class="page-item @(i == (int)ViewData["CurrentPage"] ? "active" : "")">
+                        <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = i })">@i</a>
+                        </li>
+                    }
+
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] < (int)ViewData["TotalPages"])
+                    {
+                        <li class="page-item">
+                        <a class="page-link" href="@Url.Action("CharitableMedicines", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] + 1 })">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+            <!-- Pagination -->
+        </div>
+        <div class="tab-pane fade show active" id="ex-with-icons-tabs-2" role="tabpanel" aria-labelledby="ex-with-icons-tab-2">
+            <div class="row">
+            @if (!medicines.Any())
+                {
+                <div class="col-12 text-center my-5">
+                    <p class="fs-4">No medicines found.</p>
+                </div>
+                }
+            @foreach (var medicineViewModel in medicines)
+                {
+                    @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                }
+            </div>
+            <!-- Pagination -->
+            <nav aria-label="Page navigation example" class="d-flex align-items-center justify-content-center">
+                <ul class="pagination">
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] > 1)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] - 1 })">Previous</a>
+                        </li>
+                    }
+
+                    @for (int i = 1; i <= (int)ViewData["TotalPages"]; i++)
+                    {
+                        <li class="page-item @(i == (int)ViewData["CurrentPage"] ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = i })">@i</a>
+                        </li>
+                    }
+
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] < (int)ViewData["TotalPages"])
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] + 1 })">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+            <!-- Pagination -->
+        </div>
+
+        <div class="tab-pane fade" id="ex-with-icons-tabs-3" role="tabpanel" aria-labelledby="ex-with-icons-tab-3">
+            <p>Here are free medicines available for anyone in need, with no cost involved. These are provided to support those who cannot afford necessary treatments.</p>
+            <div class="row">
+            @if (!medicines.Any())
+                {
+                    <div class="col-12 text-center my-5">
+                        <p class="fs-4">No medicines found.</p>
+                    </div>
+                }
+
+            @foreach (var medicineViewModel in medicines)
+                {
+                    // Check if CanBeFree or IsFree is true
+                    if (medicineViewModel.IsFree)
+                    {
+                        @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
+                    }
+                }
+            </div>
+            <!-- Pagination -->
+            <nav aria-label="Page navigation example" class="d-flex align-items-center justify-content-center">
+                <ul class="pagination">
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] > 1)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] - 1 })">Previous</a>
+                        </li>
+                    }
+
+                    @for (int i = 1; i <= (int)ViewData["TotalPages"]; i++)
+                    {
+                        <li class="page-item @(i == (int)ViewData["CurrentPage"] ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = i })">@i</a>
+                        </li>
+                    }
+
+                    @if (ViewData["CurrentPage"] != null && (int)ViewData["CurrentPage"] < (int)ViewData["TotalPages"])
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("Index", new { searchQuery = ViewData["SearchQuery"],
+                                                                             canBeFreeFilter = ViewData["CanBeFreeFilter"],
+                                                                             isFreeFilter = ViewData["IsFreeFilter"],
+                                                                             page = (int)ViewData["CurrentPage"] + 1 })">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+            <!-- Pagination -->
+        </div>
+    </div>
+    <!-- Tabs content -->
+
+
+
+
+<!-- Modal (ONLY ONCE, outside the loop) -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Medicine Details</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row align-items-center">
+                    <!-- Left side: Image -->
+                    <div class="col-md-5 text-center">
+                        <img id="modalMedicineImage" src="" alt="Medicine Image" class="img-fluid rounded shadow-sm scale-on-hover" style="max-height: 300px;" />
+                    </div>
+
+                    <!-- Right side: Details -->
+                    <div class="col-md-7 mt-3 mt-md-0">
+                        <h4 id="modalMedicineName" class="text-primary mb-3"></h4>
+
+                        <div class="mb-3">
+                            <h6 class="fw-bold">Description</h6>
+                            <p id="modalMedicineDescription" class="text-muted mb-1"></p>
+                        </div>
+
+                        <div class="mb-3 d-flex align-items-center justify-content-between">
+                            <div>
+                                <h6 class="fw-bold">Price</h6>
+                                <p class="mb-0">
+                                    <span id="currencySymbol">$</span><span id="modalMedicinePrice"></span>
+                                </p>
+                            </div>
+                            <!-- Currency Switcher Button -->
+                            <div class="form-check form-switch mb-2">
+                                <input class="btn-check" type="checkbox" role="switch" id="currencySwitcher" autocomplete="off" />
+                                <label class="btn btn-outline-primary" for="currencySwitcher">Switch to EGP</label>
+                            </div>
+                        </div>
+
+                        <div class="row mt-3">
+                            <div class="col-6">
+                                <small class="text-muted"><strong>Created:</strong> <span id="modalMedicineCreatedAt"></span></small>
+                            </div>
+                        </div>
+
+                        <!-- Dynamic buttons -->
+                        <div class="mt-4 d-flex flex-wrap align-items-center justify-content-center gap-2">
+                            <a id="btnGetFree" class="flex-grow-1 btn btn-outline-danger" href="#">Get it for free now!</a>
+                            <a id="btnGive" class="flex-grow-1 btn btn-outline-success" href="#">Give it to others!</a>
+                            <a id="btnBuy" class="w-100 btn btn-primary" href="#">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        document.querySelectorAll('.open-medicine-modal').forEach(button => {
+            button.addEventListener('click', function () {
+                const medicineId = this.getAttribute('data-id'); // make sure data-id exists in your button
+
+                // Fill the modal content
+                document.getElementById('modalMedicineName').innerText = this.getAttribute('data-name');
+                document.getElementById('modalMedicineDescription').innerText = this.getAttribute('data-description');
+                document.getElementById('modalMedicinePrice').innerText = this.getAttribute('data-price');
+                document.getElementById('modalMedicineImage').src = this.getAttribute('data-imageurl');
+
+                // Format and set the CreatedAt date
+                var createdAtString = this.getAttribute('data-createdat');
+                var createdAtDate = new Date(createdAtString);
+                var formattedDate = createdAtDate.toISOString().split('T')[0];
+                document.getElementById('modalMedicineCreatedAt').innerText = formattedDate;
+
+                // Update the button links dynamically
+                document.getElementById('btnGetFree').href = `/Medicines/GetFree/${medicineId}`;
+                document.getElementById('btnGive').href = `/Medicines/Give/${medicineId}`;
+                document.getElementById('btnBuy').href = `/Medicines/Buy/${medicineId}`;
+
+                // Get isFree and canBeFree attributes from the clicked button and ensure the string is lowercase
+                const isFree = this.getAttribute('data-isfree').toLowerCase() === 'true' ;  // Converts 'true' or 'false' to boolean
+                const canBeFree = this.getAttribute('data-canbefree').toLowerCase() === 'true';  // Converts 'true' or 'false' to boolean
+
+               // Remove previous visibility classes to avoid stacking
+                document.getElementById('btnGetFree').classList.remove('d-block', 'd-none');
+                document.getElementById('btnGive').classList.remove('d-block', 'd-none');
+
+                // Add appropriate visibility classes based on the condition
+                document.getElementById('btnGetFree').classList.add(isFree ? 'd-block' : 'd-none');
+                document.getElementById('btnGive').classList.add(canBeFree ? 'd-block' : 'd-none');
+            });
+        });
+
+
+
+        // Example conversion rates
+        const usdToEgpRate = 50; // 1 USD = 50 EGP
+        const egpToUsdRate = 1 / usdToEgpRate; // 1 EGP = 1/50 USD
+
+        // Add event listener for when the currency switcher button is clicked
+        document.getElementById('currencySwitcher').addEventListener('click', function () {
+            // Get the current currency symbol and price element
+            var currencySymbol = document.getElementById('currencySymbol');
+            var priceElement = document.getElementById('modalMedicinePrice');
+            var currentPrice = parseFloat(priceElement.innerText); // Get current price as number
+
+            // Check if it's currently USD or EGP and toggle
+            if (currencySymbol.innerText === '$') {
+                // Convert to EGP
+                var convertedPrice = (currentPrice * usdToEgpRate).toFixed(2);  // Convert price to EGP
+                currencySymbol.innerText = '£'; // Update symbol to EGP
+                priceElement.innerText = convertedPrice;  // Update price with EGP value
+                this.innerText = 'Switch to USD';  // Change button text
+            } else {
+                // Convert to USD
+                var convertedPrice = (currentPrice * egpToUsdRate).toFixed(2);  // Convert price to USD
+                currencySymbol.innerText = '$'; // Update symbol to USD
+                priceElement.innerText = convertedPrice;  // Update price with USD value
+                this.innerText = 'Switch to EGP';  // Change button text
+            }
+        });
+
+    </script>
+}

@@ -1152,6 +1152,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM\u002B8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"220732"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022k8oB4N73rmYSSB03631lBDI/yAw5O4jj4kxn2njBM\u002B8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 05:46:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/medicineModal.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\medicineModal.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2333"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 22:59:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/medicineModal.tnjlsvpv9c.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\medicineModal.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnjlsvpv9c"},{"Name":"integrity","Value":"sha256-yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg="},{"Name":"label","Value":"_content/PharmaReachMVC/js/medicineModal.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2333"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yR5iIw7go/JvZgbm41gB/5HRqdHuxcTQLIor1BtCPfg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 22:59:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PharmaReachMVC/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

@@ -1,0 +1,71 @@
+﻿@model PharmaReachMVC.ViewModels.MedicineSearchViewModel
+
+<div class="row align-items-center justify-content-between my-5">
+    <h1 class="col-lg-6 text-center text-lg-start">@Model.PageTitle</h1>
+
+    <div class="col-lg-6">
+        <!-- Search by medicine name or description -->
+        <form method="get" action="@Model.ActionUrl">
+            <div class="input-group">
+                <input id="searchInput" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" name="searchQuery" value="@Model.SearchQuery" />
+                <button type="submit" class="btn btn-outline-primary" data-mdb-ripple-init>Search</button>
+            </div>
+        </form>
+
+        <!-- Filter by Address to get available medicines in near pharmacies -->
+        <div class="d-flex align-items-center justify-content-center mt-2">
+            <div class="d-flex flex-wrap align-items-center gap-2 me-auto">
+                <p>Filter by: </p>
+                <div>
+                    <a class="dropdown-toggle hidden-arrow btn btn-secondary"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-dropdown-init
+                       data-mdb-ripple-init
+                       aria-expanded="false">
+                        <span class="me-1">Country</span>
+                        <i class="fa-solid fa-angle-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+                            <div class="input-group mt-2 mx-2">
+                                <div class="form-outline w-auto" data-mdb-input-init>
+                                    <input type="search" id="search-input-dropdown" class="form-control" />
+                                    <label class="form-label" for="search-input-dropdown">Search</label>
+                                </div>
+                            </div>
+                        </li>
+                        <li><hr class="dropdown-divider" /></li>
+                        <!-- Add actual filter options -->
+                    </ul>
+                </div>
+                <div>
+                    <a class="dropdown-toggle hidden-arrow btn btn-secondary"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-dropdown-init
+                       data-mdb-ripple-init
+                       aria-expanded="false">
+                        <span class="me-1">City</span>
+                        <i class="fa-solid fa-angle-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+                            <div class="input-group mt-2 mx-2">
+                                <div class="form-outline w-auto" data-mdb-input-init>
+                                    <input type="search" id="search-input-dropdown" class="form-control" />
+                                    <label class="form-label" for="search-input-dropdown">Search</label>
+                                </div>
+                            </div>
+                        </li>
+                        <li><hr class="dropdown-divider" /></li>
+                        <!-- Add actual filter options -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Filter by Address to get available medicines in near pharmacies -->
+    </div>
+</div>

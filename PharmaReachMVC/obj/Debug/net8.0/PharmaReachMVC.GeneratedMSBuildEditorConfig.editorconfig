@@ -196,6 +196,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Medicines/IndexWithTabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXEluZGV4V2l0aFRhYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Medicines/prepaidMedicines.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzXHByZXBhaWRNZWRpY2luZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -298,6 +302,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Shared/_MedicineCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZWRpY2luZUNhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Shared/_MedicineModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZWRpY2luZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Shared/_SearchAndFilter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hBbmRGaWx0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Course-DEPI-FullStack.netWebDev/FinalProject/PharmaReachMVC-SmallDB/PharmaReachMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
