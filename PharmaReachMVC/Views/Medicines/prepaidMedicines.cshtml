@@ -6,8 +6,8 @@
 
 <h1>Prepaid Medicines</h1>
 
-@foreach (var item in Model)
-{
+@* @foreach (var item in Model) *@
+@* { *@
     <p>Here are free medicines available for anyone in need, with no cost involved. These are provided to support those who cannot afford necessary treatments.</p>
     <div class="row">
         @if (!Model.Any())
@@ -22,8 +22,8 @@
             // Check if CanBeFree or IsFree is true
             if (medicineViewModel.IsFree)
             {
-                @Html.Partial("_MedicineCard", item) <!-- Rendering the partial view -->
+            @Html.Partial("_MedicineCard", medicineViewModel) <!-- Rendering the partial view -->
             }
         }
     </div>
-}
+@* } *@

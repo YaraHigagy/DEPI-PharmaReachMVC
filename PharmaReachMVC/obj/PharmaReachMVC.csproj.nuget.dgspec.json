@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC.csproj": {}
+    "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\PharmaReachMVC.csproj": {}
   },
   "projects": {
-    "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC.csproj": {
+    "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\PharmaReachMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC.csproj",
+        "projectUniqueName": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\PharmaReachMVC.csproj",
         "projectName": "PharmaReachMVC",
-        "projectPath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC.csproj",
+        "projectPath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\PharmaReachMVC.csproj",
         "packagesPath": "C:\\Users\\Yara\\.nuget\\packages\\",
-        "outputPath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\obj\\",
+        "outputPath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PharmaReachMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1aa1e8bb1d565425f37fb6f297ab208725d9dc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d2af0cee75ca476edf547ad11b435339038bf0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PharmaReachMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PharmaReachMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

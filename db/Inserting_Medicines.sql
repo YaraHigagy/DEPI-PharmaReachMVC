@@ -49,4 +49,5 @@ VALUES
     ('Pravastatin', 'Used to lower cholesterol levels and reduce the risk of heart disease.', 14.75, '/images/pravastatin.jpg', '2023-10-05 06:49:25.000'),
     ('Carvedilol', 'Beta blocker used to treat high blood pressure and heart failure.', 13.25, '/images/carvedilol.jpg', '2024-09-11 10:02:41.000'),
     ('Chlorthalidone', 'Diuretic used to treat high blood pressure and swelling.', 8.99, '/images/chlorthalidone.jpg', '2023-12-19 03:58:12.000'),
-    ('Trazodone', 'Antidepressant also used to treat insomnia.', 17.99, '/images/trazodone.png', '2023-05-14 09:50:04.000');
+    ('Trazodone', 'Antidepressant also used to treat insomnia.', 17.99, '/images/trazodone.png', '2023-05-14 09:50:04.000'),
+	('Panadol', 'Pain reliever used to treat headaches and body aches.', 5.49, '/images/panadol.png', '2023-05-14 09:50:04.000');

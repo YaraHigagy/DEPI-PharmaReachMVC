@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWj5NPI8ylI=",
+  "dgSpecHash": "6Rxw7JX5bSU=",
   "success": true,
-  "projectFilePath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC\\PharmaReachMVC.csproj",
+  "projectFilePath": "F:\\Course-DEPI-FullStack.netWebDev\\FinalProject\\PharmaReachMVC-SmallDB\\PharmaReachMVC\\PharmaReachMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yara\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Yara\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

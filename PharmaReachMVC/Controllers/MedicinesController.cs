@@ -70,55 +70,45 @@ namespace PharmaReachMVC.Controllers
         }
 
         // GET: Medicines/PrepaidMedicines
-        public async Task<IActionResult> PrepaidMedicines(int page = 1)
+        public async Task<IActionResult> PrepaidMedicines()
         {
-            int pageSize = 8;
-            var query = _context.Medicines.AsQueryable();
+            var medicineIds = await _context.MedicinePharmacyIsFrees
+                .Select(f => f.MedicineId)
+                .Distinct()
+                .ToListAsync();
 
-            // Filter for medicines that are free (isFree = true)
-            query = query.Where(m => _context.MedicinePharmacyIsFrees.Any(f => f.MedicineId == m.Id));
-
-            // Pagination logic
-            var totalItems = await query.CountAsync();
-            var totalPages = (int)Math.Ceiling(totalItems / (double)pageSize);
-            var medicines = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            var medicines = await _context.Medicines
+                .Where(m => medicineIds.Contains(m.Id))
+                .ToListAsync();
 
             var medicineViewModels = medicines.Select(m => new MedicineViewModel
             {
                 Medicine = m,
-                IsFree = _context.MedicinePharmacyIsFrees.Any(f => f.MedicineId == m.Id),
+                IsFree = true,
                 CanBeFree = _context.MedicinePharmacyCanBeFrees.Any(f => f.MedicineId == m.Id)
             }).ToList();
-
-            ViewData["CurrentPage"] = page;
-            ViewData["TotalPages"] = totalPages;
 
             return View(medicineViewModels);
         }
 
         // GET: Medicines/CharitableMedicines
-        public async Task<IActionResult> CharitableMedicines(int page = 1)
+        public async Task<IActionResult> CharitableMedicines()
         {
-            int pageSize = 8;
-            var query = _context.Medicines.AsQueryable();
+            var medicineIds = await _context.MedicinePharmacyCanBeFrees
+                .Select(f => f.MedicineId)
+                .Distinct()
+                .ToListAsync();
 
-            // Filter for medicines that can be free (canBeFree = true)
-            query = query.Where(m => _context.MedicinePharmacyCanBeFrees.Any(f => f.MedicineId == m.Id));
-
-            // Pagination logic
-            var totalItems = await query.CountAsync();
-            var totalPages = (int)Math.Ceiling(totalItems / (double)pageSize);
-            var medicines = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            var medicines = await _context.Medicines
+                .Where(m => medicineIds.Contains(m.Id))
+                .ToListAsync();
 
             var medicineViewModels = medicines.Select(m => new MedicineViewModel
             {
                 Medicine = m,
                 IsFree = _context.MedicinePharmacyIsFrees.Any(f => f.MedicineId == m.Id),
-                CanBeFree = _context.MedicinePharmacyCanBeFrees.Any(f => f.MedicineId == m.Id)
+                CanBeFree = true
             }).ToList();
-
-            ViewData["CurrentPage"] = page;
-            ViewData["TotalPages"] = totalPages;
 
             return View(medicineViewModels);
         }

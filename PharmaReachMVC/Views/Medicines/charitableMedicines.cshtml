@@ -6,8 +6,8 @@
 
 <h1>Charitable Medicines</h1>
 
-@foreach (var item in Model)
-{
+@* @foreach (var item in Model) *@
+@* { *@
     <p>These are medicines available for users to purchase, with the proceeds going toward providing free medicine for others in need. Your contribution helps make essential treatments accessible to everyone.</p>
     <div class="row">
         @if (!Model.Any())
@@ -26,4 +26,4 @@
             }
         }
     </div>
-}
+@* } *@
